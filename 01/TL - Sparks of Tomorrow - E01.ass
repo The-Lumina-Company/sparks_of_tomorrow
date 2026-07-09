@@ -1,0 +1,407 @@
+[Script Info]
+Title: The-Lumina-Company - Sparks of Tomorrow
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,6,2,30,30,30,1
+Style: Main,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Italics,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Flashback,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00500000,&HA0500000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Main - Top,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,30,30,60,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Main,Hayato,0,0,0,,{\fscx75\fscy75\pos(1536,279)}Çeviri: Kağan\NRedaksiyon: shxd\NEncode: shxd\NUpload: shxd\N https://discord.gg/akzHAQ2Dh6
+Dialogue: 0,0:00:14.02,0:00:15.36,Main,Hayato,0,0,0,,Gerçekten taşınacak mısın?
+Dialogue: 0,0:00:15.36,0:00:17.99,Main,Haruki,0,0,0,,Evet. Hem de çok uzaklara.
+Dialogue: 0,0:00:17.99,0:00:20.49,Main,Hayato,0,0,0,,Artık oyun oynayamayacak mıyız?
+Dialogue: 0,0:00:21.36,0:00:22.75,Main,Haruki,0,0,0,,Bilmiyorum.
+Dialogue: 0,0:00:28.64,0:00:31.76,Main,Hayato,0,0,0,,Haruki, ne olursa olsun biz\Nhep arkadaş kalacağız!
+Dialogue: 0,0:00:32.84,0:00:37.01,Main,Haruki,0,0,0,,Evet! Ayrı olsak bile,\Nhâlâ arkadaşız, Hayato!
+Dialogue: 0,0:00:41.63,0:00:42.52,Main,Haruki,0,0,0,,Sonra görüşürüz.
+Dialogue: 0,0:00:42.87,0:00:45.12,Main,Hayato,0,0,0,,Evet. Bekliyor olacağım.
+Dialogue: 0,0:00:47.61,0:00:50.28,Main,Teacher,0,0,0,,Hadi, nakil öğrenci\Nbize kendini tanıtsın.
+Dialogue: 0,0:00:50.97,0:00:52.94,Main,Hayato,0,0,0,,Merhaba, ben Kirishima Hayato.
+Dialogue: 0,0:01:07.71,0:01:16.39,Sign_Basic,text,0,0,0,,{\b1}AH, ONUN HAKKINDA FENA YANILMIŞIM{\b0}
+Dialogue: 0,0:02:25.54,0:02:29.50,Sign_Basic,text,0,0,0,,{\b1}BÖLÜM 1 "HER ŞEY BİR YAZ GÜNÜ BAŞLADI"{\b0}
+Dialogue: 0,0:02:26.40,0:02:29.32,Main,Hayato,0,0,0,,Himeko, kahvaltı neredeyse hazır.
+Dialogue: 0,0:02:32.73,0:02:35.09,Main,Himeko,0,0,0,,Hayato, neden beni uyandırmadın?!
+Dialogue: 0,0:02:35.09,0:02:37.13,Main,Himeko,0,0,0,,Saat yedi buçuğu geçmiş bile!
+Dialogue: 0,0:02:37.44,0:02:39.13,Main,Hayato,0,0,0,,Ne? Daha çok vaktin var.
+Dialogue: 0,0:02:39.13,0:02:41.30,Main,Himeko,0,0,0,,Koşarsam anca olabilir-
+Dialogue: 0,0:02:41.30,0:02:41.89,Main,Himeko,0,0,0,,Bekle.
+Dialogue: 0,0:02:41.89,0:02:45.07,Main,Hayato,0,0,0,,Burası eski evimiz gibi değil. \NArtık okula yakınız, değil mi?
+Dialogue: 0,0:02:45.07,0:02:47.31,Main,Himeko,0,0,0,,Ah, doğru. Unutmuşum.
+Dialogue: 0,0:02:51.35,0:02:52.90,Main,Himeko,0,0,0,,Belki saçlarımı kıvırırım.
+Dialogue: 0,0:02:52.90,0:02:55.90,Main,Himeko,0,0,0,,Saniyeler içinde yapmanın\Nbir yöntemi vardı sanırım.
+Dialogue: 0,0:02:55.90,0:02:57.74,Main,Hayato,0,0,0,,Olduğun gibi görünsen daha iyi.
+Dialogue: 0,0:02:57.74,0:03:00.15,Main,Hayato,0,0,0,,Neden herkese taşralı\Nolduğumuzu söylemiyoruz ki?
+Dialogue: 0,0:03:00.15,0:03:03.91,Main,Himeko,0,0,0,,Kes sesini. İlk izlenim\Nbir nakil öğrenci için her şeydir.
+Dialogue: 0,0:03:03.91,0:03:06.54,Main,Himeko,0,0,0,,Tüm okul hayatım buna bağlı.
+Dialogue: 0,0:03:07.04,0:03:08.04,Main,Hayato,0,0,0,,Emin misin?
+Dialogue: 0,0:03:08.04,0:03:09.54,Main,Himeko,0,0,0,,Hem de çok.
+Dialogue: 0,0:03:14.04,0:03:17.17,Italics,Hayato (M),0,0,0,,Manzara resmen "Tokyo!" diye bağırıyor.
+Dialogue: 0,0:03:17.55,0:03:20.32,Italics,Hayato (M),0,0,0,,Yine de Haruki'nin de bu şehirde \Nbir yerlerde olduğunu bilmek güzel.
+Dialogue: 0,0:03:20.96,0:03:22.43,Italics,Hayato (M),0,0,0,,Acaba şu an nasıl?
+Dialogue: 0,0:03:24.91,0:03:26.54,Main,Hayato,0,0,0,,Merhaba, ben Kirishima Hayato.
+Dialogue: 0,0:03:26.54,0:03:27.65,Main,Hayato,0,0,0,,Tsukinose'den geliyorum.
+Dialogue: 0,0:03:27.75,0:03:29.80,Main,Hayato,0,0,0,,Sokaklarda maymunları, geyikleri...
+Dialogue: 0,0:03:29.80,0:03:31.50,Main,Hayato,0,0,0,,...ve yaban domuzlarını\Ngörebileceğiniz bir yerden.
+Dialogue: 0,0:03:31.50,0:03:33.00,Main,Hayato,0,0,0,,Yani, tıpkı bir köy gibi.
+Dialogue: 0,0:03:34.87,0:03:36.40,Main,Teacher,0,0,0,,Oturacağın yer konusunda...
+Dialogue: 0,0:03:36.80,0:03:38.80,Main,Teacher,0,0,0,,Nikaido'nun yanındaki\Nboş sıraya geçebilirsin.
+Dialogue: 0,0:03:40.11,0:03:40.95,Main,Haruki,0,0,0,,Burası.
+Dialogue: 0,0:03:43.26,0:03:46.20,Italics,Hayato (M),0,0,0,,Nikaido mu? Onun soyadı da aynıydı.
+Dialogue: 0,0:03:46.63,0:03:50.73,Italics,Hayato (M),0,0,0,,O burada olsaydı muhtemelen, "Hey, \Nsoyadlarımız aynıymış!" diye kıza asılırdı.
+Dialogue: 0,0:03:50.73,0:03:52.46,Italics,Hayato (M),0,0,0,,Sonra da yüzüne gözüne bulaştırırdı.
+Dialogue: 0,0:03:55.26,0:03:56.96,Main,Hayato,0,0,0,,Memnun oldum, Nikaido-san.
+Dialogue: 0,0:03:59.03,0:04:01.22,Main,Haruki,0,0,0,,Ben de memnun oldum, Kirishima-kun.
+Dialogue: 0,0:04:02.61,0:04:06.98,Italics,Hayato (M),0,0,0,,Bir dakika. Bu his... \NNeden bu kadar tanıdık geliyor?
+Dialogue: 0,0:04:06.98,0:04:09.76,Main,Teacher,0,0,0,,Staj formlarını henüz teslim\Netmemiş olanlar...
+Dialogue: 0,0:04:09.76,0:04:13.06,Main,Teacher,0,0,0,,bu hafta içinde mutlaka\Ngetirsin. Bugünlük bu kadar.
+Dialogue: 0,0:04:13.61,0:04:15.00,Main,Ema,0,0,0,,Baksana, Kirishima-kun.
+Dialogue: 0,0:04:15.00,0:04:17.31,Main,Ema,0,0,0,,Kendini tanıtırken anlattıkların \Ngerçekten doğru muydu?
+Dialogue: 0,0:04:17.31,0:04:19.82,Main,Iori,0,0,0,,O kadar ıssız bir\Nyerde ne yapıyordun ki?
+Dialogue: 0,0:04:20.26,0:04:22.32,Main,Boy Student 1,0,0,0,,Sonra da bir anda\Nburaya mı taşındınız?
+Dialogue: 0,0:04:22.32,0:04:26.56,Main,Hayato,0,0,0,,Evet. Babam aniden tayin olduğu \Niçin taşınmak zorunda kaldık.
+Dialogue: 0,0:04:26.56,0:04:30.70,Main,Hayato,0,0,0,,Eskiden yaşadığım yerde, günde \Nsadece dört otobüs geçerdi.
+Dialogue: 0,0:04:30.70,0:04:34.30,Main,Hayato,0,0,0,,İnsanlardan çok hayvan vardı.
+Dialogue: 0,0:04:34.30,0:04:36.55,Main,Hayato,0,0,0,,Dürüst olayım, hiç bu kadar \Nkalabalık görmemiştim.
+Dialogue: 0,0:04:36.55,0:04:39.90,Main,Hayato,0,0,0,,Hep tavuk, keçi falan vardı, \Nbu yüzden burası bana garip geliyor.
+Dialogue: 0,0:04:39.90,0:04:40.71,Main,Classmate,0,0,0,,Yok artık?
+Dialogue: 0,0:04:40.71,0:04:41.52,Main,Classmate,0,0,0,,Ciddi misin?
+Dialogue: 0,0:04:41.52,0:04:42.34,Main,Classmate,0,0,0,,Hadi be!
+Dialogue: 0,0:04:42.34,0:04:44.72,Main,Girl Student 1,0,0,0,,Peki, orada hiç kız \Narkadaşın var mıydı?
+Dialogue: 0,0:04:44.72,0:04:49.47,Main,Hayato,0,0,0,,Ne arasın. Kendi yaşımda birini \Nbulmak bile mucizeydi.
+Dialogue: 0,0:04:49.47,0:04:50.74,Main,Boy Student 2,0,0,0,,Peki ya arkadaşların?
+Dialogue: 0,0:04:51.81,0:04:54.73,Main,Hayato,0,0,0,,Sadece bir tane vardı. Çok iyi biriydi.
+Dialogue: 0,0:04:55.11,0:04:57.98,Main,Hayato,0,0,0,,Beraber köprüden nehre atlardık, \Nya da dağda ağaçlara tırmanıp
+Dialogue: 0,0:04:57.98,0:05:01.48,Main,Hayato,0,0,0,,...inmeyi beceremeyince \Nmahsur kalırdık.
+Dialogue: 0,0:05:01.48,0:05:03.87,Main,Hayato,0,0,0,,Evet, bir arkadaştan öte...
+Dialogue: 0,0:05:03.87,0:05:07.68,Main,Hayato,0,0,0,,...biraz kızgın bir maymun \Nya da tuhaf bir yaratık gibiydi.
+Dialogue: 0,0:05:09.77,0:05:10.61,Main,Hayato,0,0,0,,Ne?
+Dialogue: 0,0:05:11.71,0:05:12.77,Main,Iori,0,0,0,,Nikaido-san?
+Dialogue: 0,0:05:12.77,0:05:15.25,Main,Ema,0,0,0,,İyi misin? Yaralandın mı?
+Dialogue: 0,0:05:15.92,0:05:20.75,Main,Haruki,0,0,0,,Ah, gayet iyiyim! Kalem bozuk\Nfalan herhalde, birden kırılıverdi.
+Dialogue: 0,0:05:21.50,0:05:25.76,Main,Haruki,0,0,0,,Ama yakın bir arkadaşın için böyle şeyler\Nsöylemen, biraz ayıp değil mi?
+Dialogue: 0,0:05:26.80,0:05:29.01,Main,Hayato,0,0,0,,Sadece çok yakın\Nolduğumuz için öyle söyledim.
+Dialogue: 0,0:05:31.82,0:05:34.02,Main,Haruki,0,0,0,,Oh, demek öyle.
+Dialogue: 0,0:05:34.87,0:05:36.24,Main,Hayato,0,0,0,,Nikaido-san, acaba...
+Dialogue: 0,0:05:36.24,0:05:39.40,Main,Boy Student 1,0,0,0,,Hey Kirishima, sana \Nbir şey daha soracaktım.
+Dialogue: 0,0:05:39.40,0:05:42.64,Main,Girl Student 1,0,0,0,,Aynen, benim de aklıma \Ntakılan bir şey var.
+Dialogue: 0,0:05:51.79,0:05:54.76,Italics,Hayato (M),0,0,0,,Sanırım morali bozuk.
+Dialogue: 0,0:05:55.81,0:05:58.12,Italics,Hayato (M),0,0,0,,Acaba bir şey mi yaptım?
+Dialogue: 0,0:05:58.95,0:06:02.19,Italics,Hayato (M),0,0,0,,Neyse, öğle\Narasında sorarım artık.
+Dialogue: 0,0:06:12.88,0:06:14.18,Main,Hayato,0,0,0,,Nikaido-san, ben şeyi...
+Dialogue: 0,0:06:14.18,0:06:16.78,Main,Girl Student 2,0,0,0,,Pardon, Nikaido-san burada mı?
+Dialogue: 0,0:06:16.78,0:06:18.22,Main,Haruki,0,0,0,,Evet, buradayım.
+Dialogue: 0,0:06:21.91,0:06:22.90,Italics,Hayato (M),0,0,0,,Yine mi?
+Dialogue: 0,0:06:22.90,0:06:27.21,Main,Iori,0,0,0,,Nikaido-san’a hemen asılmaya \Nbaşlaman beni etkiledi doğrusu, çömez.
+Dialogue: 0,0:06:27.21,0:06:28.40,Main,Iori,0,0,0,,Ne hissettiğini anlayabiliyorum.
+Dialogue: 0,0:06:28.40,0:06:31.16,Main,Hayato,0,0,0,,Hayır, ben sadece... \Nbu arada sen kimsin?
+Dialogue: 0,0:06:31.48,0:06:35.04,Main,Iori,0,0,0,,Ben Mori. Mori Iori. \NMemnun oldum, çömez.
+Dialogue: 0,0:06:35.04,0:06:36.56,Main,Iori,0,0,0,,Yani, Kirishima.
+Dialogue: 0,0:06:39.47,0:06:43.54,Main,Iori,0,0,0,,Nikaido’nun peşinden koşabilirsin\Nama hatun var ya, taş gibi.
+Dialogue: 0,0:06:44.80,0:06:48.55,Main,Iori,0,0,0,,Güzelliği bir kenara, hem çok tatlı\Nhem de acayip başarılı bir öğrenci.
+Dialogue: 0,0:06:48.55,0:06:51.58,Main,Iori,0,0,0,,Üstüne üstlük spor kulüpleri onu \Nkapmak için birbirini yiyor.
+Dialogue: 0,0:06:51.58,0:06:55.06,Main,Iori,0,0,0,,Şu an bile öğrenci konseyi için onu ikna etmekle uğraşıyorlardır.
+Dialogue: 0,0:06:55.57,0:06:58.22,Main,Iori,0,0,0,,Ortaokulda da herkesin gözü ondaydı.
+Dialogue: 0,0:06:58.22,0:07:00.44,Main,Iori,0,0,0,,Ama onun kimseye\Naşık olduğunu duymadım.
+Dialogue: 0,0:07:01.13,0:07:03.59,Main,Iori,0,0,0,,Boşuna heveslenme derim, Kirishima.
+Dialogue: 0,0:07:03.59,0:07:04.44,Italics,Iori,0,0,0,,Sırıtma!
+Dialogue: 0,0:07:04.44,0:07:06.81,Main,Hayato,0,0,0,,Ben hiç düşünmemiştim bile...
+Dialogue: 0,0:07:06.81,0:07:10.01,Main,Hayato,0,0,0,,Ama anladım, gerçekten\Npopüler biri olmalı.
+Dialogue: 0,0:07:10.01,0:07:12.97,Italics,Hayato (M),0,0,0,,Yine de benim tanıdığım\NNikaido’dan çok farklı.
+Dialogue: 0,0:07:12.97,0:07:15.45,Italics,Hayato (M),0,0,0,,Cinsiyetlerinin farklı olması \Nbile ayrı bir konu.
+Dialogue: 0,0:07:16.23,0:07:19.20,Italics,Hayato (M),0,0,0,,Ama bunları duyduktan sonra \Ndaha da kafam karıştı.
+Dialogue: 0,0:07:19.90,0:07:24.54,Italics,Hayato (M),0,0,0,,Neden bana karşı \Nbu kadar mesafeli?
+Dialogue: 0,0:07:25.98,0:07:27.05,Main,Hayato,0,0,0,,Kim bilir?
+Dialogue: 0,0:07:30.05,0:07:31.80,Main,Co-op,0,0,0,,Buyurun. Bir adet çörek.
+Dialogue: 0,0:07:33.80,0:07:36.30,Italics,Hayato,0,0,0,,Neyse, en azından \Nbir şeyler alabilmeyi başardım.
+Dialogue: 0,0:07:36.30,0:07:38.18,Main,Student,0,0,0,,Eyvah! Bitmek üzereler!
+Dialogue: 0,0:07:38.76,0:07:41.94,Italics,Hayato (M),0,0,0,,Ama sanırım artık yanımda\Nyemek getirmeliyim.
+Dialogue: 0,0:07:41.94,0:07:44.37,Italics,Hayato (M),0,0,0,,Öğle yemeğimi huzur\Niçinde yemek istiyorum.
+Dialogue: 0,0:07:44.37,0:07:46.44,Italics,Hayato (M),0,0,0,,Belki herkesten uzak \Nbir yer bulabilirim.
+Dialogue: 0,0:07:50.69,0:07:52.51,Italics,Hayato (M),0,0,0,,Yok, burası olmaz.
+Dialogue: 0,0:07:53.70,0:07:56.33,Main,Minamo,0,0,0,,Hmm, pek de meyve verdiği yok.
+Dialogue: 0,0:07:56.33,0:07:59.36,Main,Minamo,0,0,0,,Toprağı mı kötü acaba? Yoksa...
+Dialogue: 0,0:07:59.36,0:08:00.60,Main,Hayato,0,0,0,,Bunlar kabak değil mi?
+Dialogue: 0,0:08:02.19,0:08:03.91,Main,Hayato,0,0,0,,Üzgünüm, korkutmak istememiştim.
+Dialogue: 0,0:08:03.91,0:08:06.63,Main,Hayato,0,0,0,,Ama o sarı çiçekler\Nkabak olmalı, değil mi?
+Dialogue: 0,0:08:06.63,0:08:08.64,Main,Hayato,0,0,0,,Mor çiçekler patlıcan,
+Dialogue: 0,0:08:08.64,0:08:10.35,Main,Hayato,0,0,0,,beyazlar da biber olmalı.
+Dialogue: 0,0:08:10.35,0:08:11.72,Main,Hayato,0,0,0,,Mısırların da var sanırım.
+Dialogue: 0,0:08:11.72,0:08:15.43,Main,Minamo,0,0,0,,Ha? Şey, evet. Tamamen haklısın.
+Dialogue: 0,0:08:15.43,0:08:17.16,Main,Hayato,0,0,0,,Tozlaştılar mı?
+Dialogue: 0,0:08:17.16,0:08:20.68,Main,Hayato,0,0,0,,Dişi çiçeği tozlaştırmazsan \Nkabaklar pek büyümez.
+Dialogue: 0,0:08:22.94,0:08:25.47,Main,Hayato,0,0,0,,Patlıcandaki fazla\Nçiçekleri de budamalısın.
+Dialogue: 0,0:08:25.47,0:08:27.74,Main,Hayato,0,0,0,,Biberleri de biraz seyreltirsen...
+Dialogue: 0,0:08:27.74,0:08:29.44,Main,Hayato,0,0,0,,çok daha iyi büyürler.
+Dialogue: 0,0:08:29.44,0:08:32.44,Main,Minamo,0,0,0,,Vay canına, ç-çok şey biliyorsunuz.
+Dialogue: 0,0:08:32.74,0:08:36.09,Main,Hayato,0,0,0,,Köydeyken tarlalarda çok\Nyardım etmiştim.
+Dialogue: 0,0:08:36.09,0:08:38.12,Main,Hayato,0,0,0,,Bahçıvanlık kulübü falan mı burası?
+Dialogue: 0,0:08:38.12,0:08:40.51,Main,Minamo,0,0,0,,E-Evet, bahçıvanlık kulübü.
+Dialogue: 0,0:08:40.51,0:08:43.08,Main,Minamo,0,0,0,,Ama bahçemiz gerçekten o kadar garip mi?
+Dialogue: 0,0:08:43.44,0:08:45.54,Main,Hayato,0,0,0,,Hayır, bana gayet normal görünüyor.
+Dialogue: 0,0:08:45.54,0:08:48.36,Main,Hayato,0,0,0,,Domatesler zaten eskiden süs bitkisi \Nolarak yetiştirilirdi derler.
+Dialogue: 0,0:08:48.36,0:08:50.59,Main,Hayato,0,0,0,,Ben de çiçek açan\Nsebzeleri severim aslında.
+Dialogue: 0,0:08:54.93,0:08:56.84,Main,Haruki,0,0,0,,Ne yaptığını sanıyorsun sen?
+Dialogue: 0,0:08:56.84,0:08:58.85,Main,Minamo,0,0,0,,Ah, Nikaido-san!
+Dialogue: 0,0:08:58.85,0:09:03.74,Main,Haruki,0,0,0,,Mitake-san, istediğiniz gübre \Nkulüp binasına getirildi.
+Dialogue: 0,0:09:04.32,0:09:06.51,Main,Minamo,0,0,0,,Ah, harika! Hemen gidip alayım.
+Dialogue: 0,0:09:06.51,0:09:08.07,Main,Minamo,0,0,0,,Çok teşekkür ederim!
+Dialogue: 0,0:09:12.45,0:09:15.40,Main,Haruki,0,0,0,,İlk günden kızlara mı \Nyürüyorsun? Ne cesaret ama.
+Dialogue: 0,0:09:15.40,0:09:18.58,Main,Haruki,0,0,0,,Demek senin tipin\Nböyle kızlar, Kirishima-kun?
+Dialogue: 0,0:09:18.58,0:09:20.28,Main,Hayato,0,0,0,,Hayır, ben sadece...
+Dialogue: 0,0:09:20.93,0:09:23.89,Main,Hayato,0,0,0,,Ona asılmıyordum. \NBirini anımsattı sadece.
+Dialogue: 0,0:09:23.89,0:09:26.21,Main,Haruki,0,0,0,,Öyle mi? Kimi?
+Dialogue: 0,0:09:26.53,0:09:27.54,Main,Hayato,0,0,0,,Şey...
+Dialogue: 0,0:09:29.14,0:09:31.50,Main,Hayato,0,0,0,,Gen Amca'nın çiftliğindeki koyunları.
+Dialogue: 0,0:09:33.31,0:09:36.03,Main,Haruki,0,0,0,,Hani şu otları temizlesin diye \Nbesleyip sonra...
+Dialogue: 0,0:09:36.03,0:09:40.26,Main,Haruki,0,0,0,,sebzeleri yemeye başlayınca \Nküplere bindiği koyunlar mı?
+Dialogue: 0,0:09:40.57,0:09:41.76,Main,Hayato,0,0,0,,Aynen, aynen.
+Dialogue: 0,0:09:41.76,0:09:45.50,Main,Hayato,0,0,0,,Saçları karmakarışık, sebzelerin\Narasında duran birini görünce...
+Dialogue: 0,0:09:45.50,0:09:46.69,Main,Hayato,0,0,0,,...direkt aklıma onlar geldi de.
+Dialogue: 0,0:09:51.21,0:09:55.46,Main,Haruki,0,0,0,,Cidden mi? Bir kıza, Gen-san'ın \Nkoyunlarına benzettiğin için mi laf attın?
+Dialogue: 0,0:09:55.46,0:09:57.67,Main,Haruki,0,0,0,,Sen tam bir öküzsün, Hayato.
+Dialogue: 0,0:09:57.48,0:09:58.60,Main,Hayato,0,0,0,,Ah!
+Dialogue: 0,0:09:58.60,0:10:01.78,Main,Hayato,0,0,0,,Yavaş olsana biraz, Haru...ki?
+Dialogue: 0,0:10:04.00,0:10:06.29,Main,Girl Student 3,0,0,0,,Ah, buradaymışsın Nikaido-san!
+Dialogue: 0,0:10:06.29,0:10:07.79,Main,Girl Student 3,0,0,0,,Bir dakika gelebilir misin?
+Dialogue: 0,0:10:08.23,0:10:10.04,Main,Haruki,0,0,0,,Tabii, nasıl yardımcı olabilirim?
+Dialogue: 0,0:10:17.80,0:10:18.76,Main,Hayato,0,0,0,,Ne?
+Dialogue: 0,0:10:25.37,0:10:27.56,Italics,Hayato (M),0,0,0,,O gerçekten Haruki mi?
+Dialogue: 0,0:10:27.56,0:10:30.81,Flashback,Haruki,0,0,0,,Hey, bir tane yakaladım!\NBen de yakaladım, Hayato!
+Dialogue: 0,0:10:30.81,0:10:33.57,Flashback,Hayato,0,0,0,,Tamam tamam, bana vurmana gerek yok!
+Dialogue: 0,0:10:34.02,0:10:37.07,Italics,Hayato (M),0,0,0,,Nikaido-san {\i0}gerçekten{\i1} Haruki mi?
+Dialogue: 0,0:10:43.42,0:10:45.16,Italics,Hayato (M),0,0,0,,Yoksa sadece küçük bir çocuk mu?
+Dialogue: 0,0:10:48.24,0:10:50.42,Main,Boy Student 1,0,0,0,,Hey, Kirishima. Karaokeye gidelim mi?
+Dialogue: 0,0:10:50.42,0:10:53.49,Main,Boy Student 2,0,0,0,,Aynen, hoş geldin partisi\Nyaparız, hesap bizden.
+Dialogue: 0,0:10:53.49,0:10:54.94,Main,Hayato,0,0,0,,Yani, aslında ben...
+Dialogue: 0,0:10:54.94,0:10:56.55,Main,Boy Student 1,0,0,0,,Harika o zaman, hadi gidelim!
+Dialogue: 0,0:10:56.55,0:10:57.30,Main,Haruki,0,0,0,,Gidemez!
+Dialogue: 0,0:10:57.30,0:10:58.12,Main,Boy Student 1,0,0,0,,Ha?
+Dialogue: 0,0:10:58.12,0:10:59.42,Main,Boy Student 2,0,0,0,,Nikaido-san?
+Dialogue: 0,0:11:00.07,0:11:02.08,Main,Haruki,0,0,0,,Şey, yani...
+Dialogue: 0,0:11:03.75,0:11:04.91,Main,Haruki,0,0,0,,Bugün gidemez.
+Dialogue: 0,0:11:04.91,0:11:07.93,Main,Haruki,0,0,0,,Dersten sonra ona kampüsü\Ngezdireceğime söz verdim.
+Dialogue: 0,0:11:07.93,0:11:09.94,Main,Haruki,0,0,0,,Öyle değil mi, Kirishima-kun?
+Dialogue: 0,0:11:10.54,0:11:13.12,Main,Boy Student 1,0,0,0,,Neyse, başka sefere o zaman.
+Dialogue: 0,0:11:13.12,0:11:16.69,Main,Boy Student 1,0,0,0,,Keşke Nikaido-san bana da\Nbir ara okulu gezdirse!
+Dialogue: 0,0:11:21.60,0:11:23.70,Main,Hayato,0,0,0,,Bekle. Nikaido-san?
+Dialogue: 0,0:11:27.83,0:11:29.96,Main,Hayato,0,0,0,,Hey, nereye götürüyorsun beni?
+Dialogue: 0,0:11:29.96,0:11:31.46,Main,Haruki,0,0,0,,Gel sen benimle!
+Dialogue: 0,0:11:39.43,0:11:42.09,Main,Hayato,0,0,0,,Nereye gittiğimizi bilmiyorum ama...
+Dialogue: 0,0:11:42.09,0:11:43.43,Main,Hayato,0,0,0,,Biraz hızlı olsana!
+Dialogue: 0,0:11:54.25,0:11:55.34,Italics,Hayato (M),0,0,0,,Bu muydu?
+Dialogue: 0,0:11:58.08,0:11:59.47,Italics,Hayato (M),0,0,0,,Cidden.
+Dialogue: 0,0:12:00.48,0:12:01.84,Italics,Hayato (M),0,0,0,,Hiç değişmemişsin!
+Dialogue: 0,0:12:02.99,0:12:06.49,Sign_Basic,text,0,0,0,,NIKAIDO
+Dialogue: 0,0:12:11.50,0:12:13.00,Main,Haruki,0,0,0,,Ne oldu, Hayato?
+Dialogue: 0,0:12:14.00,0:12:17.25,Main,Hayato,0,0,0,,Hiçbir şey... Rahatsız ettiğim\Niçin kusura bakmayın!
+Dialogue: 0,0:12:17.61,0:12:18.99,Main,Haruki,0,0,0,,Rahatına baksana oğlum.
+Dialogue: 0,0:12:18.99,0:12:21.88,Main,Haruki,0,0,0,,Zaten evde tekim, kasma kendini.
+Dialogue: 0,0:12:22.28,0:12:23.88,Main,Hayato,0,0,0,,Harbi mi?
+Dialogue: 0,0:12:26.55,0:12:28.44,Main,Haruki,0,0,0,,İstediğin yere oturabilirsin.
+Dialogue: 0,0:12:29.74,0:12:30.43,Main,Haruki,0,0,0,,Şuraya!
+Dialogue: 0,0:12:31.55,0:12:32.52,Main,Hayato,0,0,0,,Oha.
+Dialogue: 0,0:12:36.31,0:12:38.77,Main,Haruki,0,0,0,,Çıkar şu çorapları, Hayato.
+Dialogue: 0,0:12:39.08,0:12:41.50,Main,Hayato,0,0,0,,Evet, yani... bilmiyorum ki.
+Dialogue: 0,0:12:45.76,0:12:48.49,Main,Haruki,0,0,0,,Hani şu maymun falan\Ndiyordun, ne ayak o iş?
+Dialogue: 0,0:12:48.49,0:12:50.57,Main,Hayato,0,0,0,,Yok ya, o mesele...
+Dialogue: 0,0:12:50.57,0:12:52.48,Main,Hayato,0,0,0,,Benim hatam. Benim hatam.
+Dialogue: 0,0:12:52.48,0:12:55.50,Main,Hayato,0,0,0,,Sana bir iyilik borcum olsun.\NEski günlerdeki gibi.
+Dialogue: 0,0:12:56.68,0:12:57.98,Main,Haruki,0,0,0,,Borçlusun yani, ha?
+Dialogue: 0,0:12:58.54,0:13:00.74,Main,Haruki,0,0,0,,Peki, öyle olsun.
+Dialogue: 0,0:13:02.15,0:13:04.78,Main,Haruki,0,0,0,,Gerçekten anılarımı canlandırdın.
+Dialogue: 0,0:13:04.78,0:13:08.00,Main,Haruki,0,0,0,,Bana kaç iyilik borçlusun ki?
+Dialogue: 0,0:13:08.00,0:13:10.08,Main,Hayato,0,0,0,,Aynısını ben de sorabilirim.
+Dialogue: 0,0:13:10.08,0:13:12.64,Main,Hayato,0,0,0,,Senin de bana az borcun\Nyoktu. Değil mi, Haruki?
+Dialogue: 0,0:13:13.60,0:13:14.89,Main,Haruki,0,0,0,,Haksız değilsin.
+Dialogue: 0,0:13:15.76,0:13:19.00,Main,Hayato,0,0,0,,Ama Haruki, bu yaptığın hiç adil değil be.
+Dialogue: 0,0:13:20.03,0:13:22.71,Main,Haruki,0,0,0,,Evet, çok şey yaşadım.
+Dialogue: 0,0:13:22.71,0:13:25.40,Main,Haruki,0,0,0,,O yüzden böyle\Nkamuflajlı geziyorum işte.
+Dialogue: 0,0:13:25.40,0:13:26.99,Main,Hayato,0,0,0,,Kamuflaj mı?
+Dialogue: 0,0:13:26.99,0:13:29.17,Main,Hayato,0,0,0,,Yani bir nevi yaratık gibi-
+Dialogue: 0,0:13:27.87,0:13:29.17,Main - Top,Haruki,0,0,0,,Hayato!
+Dialogue: 0,0:13:29.76,0:13:31.79,Main,Hayato,0,0,0,,Üzgünüm. Sana bir tane daha borçlandım.
+Dialogue: 0,0:13:32.65,0:13:34.91,Main,Haruki,0,0,0,,Hiç akıllanmayacaksın, değil mi?
+Dialogue: 0,0:13:40.80,0:13:42.92,Main,Haruki,0,0,0,,Hey, uzun zamandır kapışmadık.
+Dialogue: 0,0:13:43.62,0:13:45.17,Main,Haruki,0,0,0,,Kaybeden bir borç öder.
+Dialogue: 0,0:13:45.65,0:13:47.18,Main,Hayato,0,0,0,,O borcu rahat alırım ben.
+Dialogue: 0,0:13:47.18,0:13:48.93,Main,Haruki,0,0,0,,Üçte üç yapan kazanır.
+Dialogue: 0,0:13:48.93,0:13:50.68,Main,Hayato,0,0,0,,Tamamdır!
+Dialogue: 0,0:13:50.68,0:13:54.43,Sign_Basic,text,0,0,0,,NIKAIDO
+Dialogue: 0,0:13:52.46,0:13:54.43,Main,Haruki,0,0,0,,Zaman da ne çabuk geçmiş.
+Dialogue: 0,0:13:59.72,0:14:00.44,Main,Hayato,0,0,0,,Sonra görüşürüz.
+Dialogue: 0,0:14:00.89,0:14:03.57,Main,Haruki,0,0,0,,Evet, görüşürüz. Bir de...
+Dialogue: 0,0:14:07.25,0:14:08.41,Main,Hayato,0,0,0,,Beklettim.
+Dialogue: 0,0:14:11.01,0:14:13.69,Main,Himeko,0,0,0,,Babamdan mesaj geldi.
+Dialogue: 0,0:14:13.69,0:14:15.68,Main,Himeko,0,0,0,,Bu akşam yine annemin\Nyanına gidiyormuş.
+Dialogue: 0,0:14:15.68,0:14:16.20,Main,Hayato,0,0,0,,Peki.
+Dialogue: 0,0:14:16.20,0:14:19.00,Main,Himeko,0,0,0,,Şu kendine bir telefon mu alsan artık?
+Dialogue: 0,0:14:19.00,0:14:20.96,Main,Himeko,0,0,0,,Telesekreter gibi hissediyorum kendimi.
+Dialogue: 0,0:14:22.22,0:14:23.50,Main,Hayato,0,0,0,,Evet, kusura bakma.
+Dialogue: 0,0:14:24.72,0:14:26.48,Main,Hayato,0,0,0,,Akşam yemeğinde ne yiyelim?
+Dialogue: 0,0:14:33.79,0:14:34.85,Main,Hayato,0,0,0,,Himeko?
+Dialogue: 0,0:14:35.37,0:14:38.35,Main,Himeko,0,0,0,,Bugün, senin o nefis hamburger\Nköftelerinden çekiyor canım.
+Dialogue: 0,0:14:38.35,0:14:40.85,Main,Hayato,0,0,0,,Biliyorsun, onları \Nyapmak çok uğraştırıyor.
+Dialogue: 0,0:14:40.85,0:14:43.66,Main,Himeko,0,0,0,,O zaman yardım ederim\Nolur biter, tamam mı?
+Dialogue: 0,0:14:44.56,0:14:45.73,Main,Hayato,0,0,0,,Peh.
+Dialogue: 0,0:14:45.73,0:14:46.86,Main,Himeko,0,0,0,,Hey.
+Dialogue: 0,0:14:46.86,0:14:49.86,Main,Hayato,0,0,0,,Merak etme. Hastaneyi değiştirmesinin bir sebebi vardır, tamam mı?
+Dialogue: 0,0:14:53.20,0:14:54.94,Main,Himeko,0,0,0,,Afiyet olsun!
+Dialogue: 0,0:14:54.94,0:14:55.74,Main,Hayato,0,0,0,,Buyurun.
+Dialogue: 0,0:15:01.75,0:15:05.50,Main,Himeko,0,0,0,,Sosun öyle bir tadı var ki, şöyle soğuk\Nbir içkinin yanında çok iyi gider!
+Dialogue: 0,0:15:05.50,0:15:08.26,Main,Hayato,0,0,0,,Himeko, hayatında daha bir kere\Nbile alkol almadın ki.
+Dialogue: 0,0:15:09.51,0:15:11.02,Main,Himeko,0,0,0,,Yine de tadı çok güzel ama.
+Dialogue: 0,0:15:11.02,0:15:12.14,Main,Hayato,0,0,0,,Öyle mi?
+Dialogue: 0,0:15:12.48,0:15:15.39,Main,Himeko,0,0,0,,Umarım yemekleri hep sen\Nhazırlamaya devam edersin.
+Dialogue: 0,0:15:15.39,0:15:17.14,Main,Hayato,0,0,0,,Himeko, senin de öğrenmen lazım.
+Dialogue: 0,0:15:17.52,0:15:20.04,Main,Himeko,0,0,0,,Donmuş ve hazır yemekleri\Nkesin halledebilirim!
+Dialogue: 0,0:15:20.04,0:15:22.27,Main,Himeko,0,0,0,,Ah, doğru. Şunu duydun mu?
+Dialogue: 0,0:15:22.27,0:15:23.27,Main,Hayato,0,0,0,,Hmm?
+Dialogue: 0,0:15:23.60,0:15:26.52,Main,Himeko,0,0,0,,Bugün okulda öğrendim...
+Dialogue: 0,0:15:26.98,0:15:30.28,Main,Himeko,0,0,0,,Buralarda hiç jetonlu pirinç\Ndeğirmeni kalmamış.
+Dialogue: 0,0:15:30.61,0:15:32.03,Main,Hayato,0,0,0,,Hiç mi yok?
+Dialogue: 0,0:15:32.53,0:15:36.91,Main,Himeko,0,0,0,,Bir de üstüne, en yakın istasyona \Nsadece on dakikada yürünebiliyor.
+Dialogue: 0,0:15:36.91,0:15:39.66,Main,Hayato,0,0,0,,O zaman gerçekten yakın bir istasyonmuş!
+Dialogue: 0,0:15:39.66,0:15:40.41,Main,Himeko,0,0,0,,Değil mi?
+Dialogue: 0,0:15:44.17,0:15:46.92,Main,Himeko,0,0,0,,Peki bugün nasıldı? \Nİyi bir şey mi oldu?
+Dialogue: 0,0:15:47.67,0:15:48.80,Main,Hayato,0,0,0,,Neden sordun ki?
+Dialogue: 0,0:15:48.80,0:15:50.67,Main,Himeko,0,0,0,,Çünkü sırıtıyorsun da ondan.
+Dialogue: 0,0:15:51.93,0:15:55.10,Main,Hayato,0,0,0,,Ah, şey... Okulda Haruki'yle karşılaştım.
+Dialogue: 0,0:15:55.10,0:15:56.93,Main,Himeko,0,0,0,,Hadi be! {\i1}O{\i0} Haru-chan mı?
+Dialogue: 0,0:15:57.22,0:15:59.68,Main,Hayato,0,0,0,,Hatta inanmazsın, yan yana oturuyoruz.
+Dialogue: 0,0:15:59.68,0:16:01.50,Main,Himeko,0,0,0,,Vay be, harika!
+Dialogue: 0,0:16:01.50,0:16:03.06,Main,Himeko,0,0,0,,Peki Haru-chan şu an nasıl görünüyor?
+Dialogue: 0,0:16:03.36,0:16:04.56,Main,Hayato,0,0,0,,Nasıl desem...
+Dialogue: 0,0:16:06.08,0:16:07.69,Main,Hayato,0,0,0,,Hiç değişmemiş.
+Dialogue: 0,0:16:07.69,0:16:09.38,Main,Hayato,0,0,0,,Eski Haruki işte.
+Dialogue: 0,0:16:09.38,0:16:12.07,Main,Hayato,0,0,0,,Hatta ona şimdiden bir sürü\N iyilik borcum oldu bile.
+Dialogue: 0,0:16:12.07,0:16:15.87,Main,Himeko,0,0,0,,Gerçekten mi? Ben de onu görmek istiyorum!
+Dialogue: 0,0:16:15.87,0:16:19.47,Main,Hayato,0,0,0,,Sanırım eskisinden daha güçlü\Nve daha ısrarcı biri olmuş.
+Dialogue: 0,0:16:19.47,0:16:22.33,Main,Hayato,0,0,0,,Maymundan evrim geçirip gorile \Ndönüşmüş sanki, öyle bir şey.
+Dialogue: 0,0:16:24.00,0:16:25.33,Main,Himeko,0,0,0,,Ne diyorsun öyle.
+Dialogue: 0,0:16:28.00,0:16:30.34,Main,Hayato,0,0,0,,Dün olanlardan sonra\Numarım her şey yolundadır.
+Dialogue: 0,0:16:33.84,0:16:35.03,Main,Hayato,0,0,0,,Günaydın.
+Dialogue: 0,0:16:37.53,0:16:40.10,Main,Hayato,0,0,0,,Çiçekler açıyor.\NTozlaştırma yaptın mı?
+Dialogue: 0,0:16:40.10,0:16:42.11,Main,Minamo,0,0,0,,Şey, aslında...
+Dialogue: 0,0:16:42.11,0:16:44.60,Main,Hayato,0,0,0,,Bir pamuklu çubuk işi kolaylaştırabilir.
+Dialogue: 0,0:16:45.04,0:16:46.05,Main,Minamo,0,0,0,,Hiç yok ki.
+Dialogue: 0,0:16:46.05,0:16:49.11,Main,Hayato,0,0,0,,Peki, sana yardım\Netmemin sakıncası var mı?
+Dialogue: 0,0:16:49.11,0:16:50.61,Main,Minamo,0,0,0,,Ah, lütfen!
+Dialogue: 0,0:16:52.61,0:16:56.65,Main,Minamo,0,0,0,,Ben hep sebzeler kendi\Nkendine büyüyor sanırdım.
+Dialogue: 0,0:16:57.49,0:17:02.41,Main,Minamo,0,0,0,,Erkek ve dişi organlar bir araya gelip \Nkendiliğinden birleşiyorlarmış...
+Dialogue: 0,0:17:03.10,0:17:07.75,Main,Minamo,0,0,0,,Ve sonra, çocukları olunca\Nbiz de onları afiyetle yiyormuşuz!
+Dialogue: 0,0:17:08.07,0:17:09.46,Main,Hayato,0,0,0,,Aynen... öyle.
+Dialogue: 0,0:17:09.46,0:17:12.26,Main,Hayato,0,0,0,,Tam da öyle oluyor zaten.
+Dialogue: 0,0:17:15.01,0:17:18.39,Main,Minamo,0,0,0,,Bir dakika, bu... bu çok yanlış anlaşıldı!
+Dialogue: 0,0:17:18.39,0:17:21.61,Main,Minamo,0,0,0,,Erkek ve dişi organlar...\NÇok sapıkça değil mi bu?!
+Dialogue: 0,0:17:22.27,0:17:24.64,Main,Hayato,0,0,0,,Hey! Biraz sakin ol!
+Dialogue: 0,0:17:25.69,0:17:28.90,Main,Haruki,0,0,0,,Mitake-san'ın erkek ve dişi organlar\Nyüzünden kıpkırmızı kesilmesi mi...
+Dialogue: 0,0:17:29.61,0:17:33.15,Main,Haruki,0,0,0,,Kızcağıza neler yapıyorsun\Nöyle, Kirishima-kun?
+Dialogue: 0,0:17:33.15,0:17:34.86,Main,Minamo,0,0,0,,N-Nikaido-san!
+Dialogue: 0,0:17:34.86,0:17:36.91,Main,Hayato,0,0,0,,Haru- Nikaido!
+Dialogue: 0,0:17:36.91,0:17:40.58,Main,Minamo,0,0,0,,Ş-şey, ben sadece, yani...
+Dialogue: 0,0:17:40.58,0:17:43.28,Main,Minamo,0,0,0,,Günaydın! Lütfen mazur görün!
+Dialogue: 0,0:17:45.26,0:17:47.42,Main,Hayato,0,0,0,,Bak, açıklayabilirim.
+Dialogue: 0,0:17:48.71,0:17:53.55,Main,Haruki,0,0,0,,Gerçekten de Gen-san kızdığında kaçıp\Ngiden o koyunlara benziyor.
+Dialogue: 0,0:17:53.89,0:17:55.05,Main,Hayato,0,0,0,,Haruki.
+Dialogue: 0,0:17:55.42,0:17:56.91,Main,Hayato,0,0,0,,Sen ne zamandan beri oradasın?
+Dialogue: 0,0:17:56.91,0:17:59.55,Main,Haruki,0,0,0,,Tozlaştırmanın ortasında gelmiştim.
+Dialogue: 0,0:17:59.55,0:18:01.81,Main,Haruki,0,0,0,,Ne yapıyorsunuz diye merak ederken...
+Dialogue: 0,0:18:01.81,0:18:04.48,Main,Haruki,0,0,0,,kız birden panikleyip kıpkırmızı olunca,
+Dialogue: 0,0:18:04.48,0:18:07.56,Main,Haruki,0,0,0,,dedim bari yetişeyim de seni kurtarayım!
+Dialogue: 0,0:18:07.56,0:18:10.09,Main,Hayato,0,0,0,,O kadar zamandır\Norada mı dikiliyordun yani?
+Dialogue: 0,0:18:10.09,0:18:13.23,Main,Hayato,0,0,0,,Madem izliyordun, bir şeyler\N söyleyip beni kurtarsaydın ya.
+Dialogue: 0,0:18:13.23,0:18:16.07,Main,Hayato,0,0,0,,Şimdi bakınca, sanki garip\Nşeyler söylemişim gibi oldu.
+Dialogue: 0,0:18:16.07,0:18:19.90,Main,Haruki,0,0,0,,Benim de okulda korumam\Ngereken bir imajım var sonuçta.
+Dialogue: 0,0:18:19.90,0:18:21.32,Main,Haruki,0,0,0,,Elimden bir şey gelmezdi.
+Dialogue: 0,0:18:21.70,0:18:23.08,Main,Hayato,0,0,0,,Yani şimdi beni ateşe mi attın?
+Dialogue: 0,0:18:23.44,0:18:24.98,Main,Haruki,0,0,0,,Evet, ölmezsin ya.
+Dialogue: 0,0:18:24.98,0:18:26.83,Main,Haruki,0,0,0,,Arkadaşlar ne gün içindir ki?
+Dialogue: 0,0:18:27.95,0:18:29.77,Italics,Hayato,0,0,0,,Ne demek şimdi bu?
+Dialogue: 0,0:18:34.80,0:18:38.58,Main,Ema,0,0,0,,Nikaido-san, bahsettiğim İngilizce\Nçalışması burada.
+Dialogue: 0,0:18:38.58,0:18:40.37,Main,Boy Student 1,0,0,0,,Affedersin, bana da yardım eder misin?
+Dialogue: 0,0:18:40.37,0:18:41.76,Main,Tsurumi,0,0,0,,Ben de, ben de!
+Dialogue: 0,0:18:42.10,0:18:44.26,Italics,Hayato (M),0,0,0,,Kamuflaj demişti, değil mi?
+Dialogue: 0,0:18:45.05,0:18:46.77,Italics,Hayato (M),0,0,0,,Mutlaka bir sebebi vardır.
+Dialogue: 0,0:18:47.91,0:18:51.12,Italics,Hayato (M),0,0,0,,Zamanı gelince elbet açıklayacaktır.
+Dialogue: 0,0:18:51.12,0:18:52.78,Italics,Hayato (M),0,0,0,,Ne de olsa arkadaşız.
+Dialogue: 0,0:18:53.92,0:18:57.78,Italics,Hayato (M),0,0,0,,Ama belki de ona okulda\Nbiraz alan tanımalıyım.
+Dialogue: 0,0:19:01.14,0:19:03.82,Main,Haruki,0,0,0,,Kirishima-kun, bir dakika\Nbenimle gelebilir misin?
+Dialogue: 0,0:19:03.82,0:19:04.53,Main,Hayato,0,0,0,,Ha?
+Dialogue: 0,0:19:06.04,0:19:08.32,Main,Boy Student 1,0,0,0,,Nikaido-san yeni çocuğun\Npeşinde mi yoksa?
+Dialogue: 0,0:19:08.32,0:19:10.24,Main,Boy Student 2,0,0,0,,Hadi be. Onun tipi mi?
+Dialogue: 0,0:19:10.24,0:19:14.54,Main,Boy Student 3,0,0,0,,Yeni nakil olduğu için sınıf işi olmalı.\NLütfen öyle olsun, yalvarırım!
+Dialogue: 0,0:19:14.54,0:19:19.05,Main,Haruki,0,0,0,,Şey, aslında... az önceki şey\Nhakkında. Biliyorsun ya?
+Dialogue: 0,0:19:19.76,0:19:21.21,Italics,Hayato (M),0,0,0,,Hadi ama.
+Dialogue: 0,0:19:21.21,0:19:25.05,Main,Hayato,0,0,0,,Ah, tabii. Bahçedeki o sabahki iş.
+Dialogue: 0,0:19:25.05,0:19:29.56,Main,Haruki,0,0,0,,E-evet, tam olarak o. Bir an önce\Nhalledersin diye umuyordum.
+Dialogue: 0,0:19:29.56,0:19:31.56,Main,Haruki,0,0,0,,Şimdi bakacak vaktin var mı?
+Dialogue: 0,0:19:31.88,0:19:33.81,Main,Hayato,0,0,0,,Tamam, olur.
+Dialogue: 0,0:19:34.94,0:19:36.64,Main,Others,0,0,0,,Oh be. Biliyordum.
+Dialogue: 0,0:19:36.64,0:19:37.82,Main,Others,0,0,0,,Şükürler olsun.
+Dialogue: 0,0:19:39.30,0:19:41.54,Main,Iori,0,0,0,,Şanslısın ha, çömez.
+Dialogue: 0,0:19:42.30,0:19:43.57,Main,Hayato,0,0,0,,Kes sesini.
+Dialogue: 0,0:19:46.96,0:19:47.94,Main,Hayato,0,0,0,,Neresi burası?
+Dialogue: 0,0:19:47.94,0:19:49.58,Main,Haruki,0,0,0,,Gizli üssüm.
+Dialogue: 0,0:19:49.88,0:19:54.83,Main,Haruki,0,0,0,,Burası sadece depo olarak \Nkullanılıyor, o yüzden kimse gelmez.
+Dialogue: 0,0:19:55.17,0:19:58.19,Main,Hayato,0,0,0,,Yine de bir üs için\Nbiraz fazla boş değil mi?
+Dialogue: 0,0:19:58.19,0:20:01.13,Main,Haruki,0,0,0,,Haklısın. Birkaç\Nmalzeme getirmem lazım.
+Dialogue: 0,0:20:01.13,0:20:03.44,Main,Haruki,0,0,0,,Güzel bir sığınak da olabilir aslında.
+Dialogue: 0,0:20:03.44,0:20:04.84,Main,Hayato,0,0,0,,Sığınak mı dedin?
+Dialogue: 0,0:20:06.38,0:20:08.85,Main,Hayato,0,0,0,,Peki bütün bunlar neyin nesi?
+Dialogue: 0,0:20:09.22,0:20:12.82,Main,Haruki,0,0,0,,Şey, yani... Nasıl söylesem bilemiyorum.
+Dialogue: 0,0:20:14.63,0:20:15.65,Main,Haruki,0,0,0,,Gülmeyeceğine söz ver?
+Dialogue: 0,0:20:15.65,0:20:16.90,Main,Hayato,0,0,0,,Ne olduğuna bağlı.
+Dialogue: 0,0:20:16.90,0:20:18.65,Main,Haruki,0,0,0,,Eğer gülersen, bir borcun daha olur.
+Dialogue: 0,0:20:18.95,0:20:19.65,Main,Hayato,0,0,0,,Peki.
+Dialogue: 0,0:20:20.64,0:20:22.16,Main,Haruki,0,0,0,,Aslında ben...
+Dialogue: 0,0:20:22.80,0:20:25.91,Main,Haruki,0,0,0,,Her zaman arkadaşlarımla öğle yemeği \Nyiyebilmenin hayalini kurmuştum.
+Dialogue: 0,0:20:26.34,0:20:27.03,Main,Hayato,0,0,0,,Ha?
+Dialogue: 0,0:20:27.03,0:20:30.79,Main,Haruki,0,0,0,,Hey! Bu benim için\Ngerçekten çok önemli!
+Dialogue: 0,0:20:31.29,0:20:33.92,Main,Haruki,0,0,0,,Bak, eğer biriyle öğle yemeği yersem,
+Dialogue: 0,0:20:33.92,0:20:37.11,Main,Haruki,0,0,0,,kesin başka birini kıskandırırım.
+Dialogue: 0,0:20:37.11,0:20:40.30,Main,Haruki,0,0,0,,O yüzden bunca zamandır hep\Ntek başıma yedim ve...
+Dialogue: 0,0:20:42.70,0:20:44.05,Main,Hayato,0,0,0,,Aman be.
+Dialogue: 0,0:20:46.05,0:20:49.56,Main,Hayato,0,0,0,,O zaman hayalin her gün gerçek\Nolmaya başlayacak gibi görünüyor.
+Dialogue: 0,0:20:49.56,0:20:51.28,Main,Haruki,0,0,0,,Hayato...
+Dialogue: 0,0:20:51.28,0:20:52.31,Main,Hayato,0,0,0,,Öyle değil mi?
+Dialogue: 0,0:20:52.62,0:20:57.19,Main,Haruki,0,0,0,,Hayır, öyle! O zaman bir iyilik\Nborcum olsun sana.
+Dialogue: 0,0:20:57.57,0:20:58.94,Main,Hayato,0,0,0,,Bunun pek bir ederi yok ki.
+Dialogue: 0,0:20:59.34,0:21:01.82,Main,Haruki,0,0,0,,Peki her on öğle yemeği için\Nbir iyilik nasıl olur?
+Dialogue: 0,0:21:02.26,0:21:05.55,Main,Hayato,0,0,0,,O zaman sürekli borçlanıp duracaksın.
+Dialogue: 0,0:21:05.55,0:21:08.63,Main,Hayato,0,0,0,,Hiçbir şey yoksa burada öğle\Nyemeğinde buluşalım, ne dersin?
+Dialogue: 0,0:21:08.63,0:21:10.20,Main,Hayato,0,0,0,,Adil bir söz mü sence?
+Dialogue: 0,0:21:10.50,0:21:11.70,Main,Haruki,0,0,0,,Bir söz...
+Dialogue: 0,0:21:12.44,0:21:15.71,Main,Haruki,0,0,0,,Evet, söz. Kesinlikle.
+Dialogue: 0,0:21:16.82,0:21:18.96,Main,Haruki,0,0,0,,O zaman bu bir söz, Hayato.
+Dialogue: 0,0:21:20.42,0:21:22.00,Main,Hayato,0,0,0,,E-evet.
+Dialogue: 0,0:21:22.80,0:21:26.01,Italics,Hayato (M),0,0,0,,O gün, yazın sonunda,
+Dialogue: 0,0:21:26.01,0:21:29.72,Italics,Hayato (M),0,0,0,,sonsuz bekleyişim nihayet sona erdi.
+Dialogue: 0,0:21:29.72,0:21:31.60,Main,Hayato,0,0,0,,O zaman söz.
+Dialogue: 0,0:21:32.16,0:21:33.60,Main,Haruki,0,0,0,,Evet, söz.
+Dialogue: 0,0:21:33.93,0:21:38.23,Italics,Hayato (M),0,0,0,,Yıllar önce verdiğimiz o küçük\Nsözü hâlâ koruduğumuzu fark ettik.
+Dialogue: 0,0:21:39.18,0:21:41.48,Italics,Hayato (M),0,0,0,,Artık ondan gözle görülür\Nşekilde daha uzundum...
+Dialogue: 0,0:21:43.78,0:21:45.99,Italics,Hayato (M),0,0,0,,Elleri avucumda o kadar\Nküçük görünüyordu ki...
+Dialogue: 0,0:21:46.36,0:21:49.88,Italics,Hayato (M),0,0,0,,Aynı hızda koşuyorduk ama onun\Nadımları benimkilerden kısaydı.
+Dialogue: 0,0:21:50.51,0:21:54.70,Italics,Hayato (M),0,0,0,,Tüm bu farklılıklar, ayrı kaldığımız\Nsüre boyunca oluşmuştu.
+Dialogue: 0,0:21:54.70,0:21:58.62,Italics,Hayato (M),0,0,0,,Ama sonunda, bu farklılıkların\Nönemli olmayacağından emindim.
+Dialogue: 0,0:22:05.63,0:22:06.38,Flashback,Hayato,0,0,0,,Sonra görüşürüz.
+Dialogue: 0,0:22:10.16,0:22:13.54,Flashback,Haruki,0,0,0,,Evet, görüşürüz. Bir de...
+Dialogue: 0,0:22:14.25,0:22:15.64,Flashback,Haruki,0,0,0,,Tekrar hoş geldin!
+Dialogue: 0,0:22:16.22,0:22:17.14,Flashback,Hayato,0,0,0,,Hoş geldin mi?
+Dialogue: 0,0:22:17.46,0:22:20.40,Flashback,Haruki,0,0,0,,Evet. Bana göre, geri döndün!
+Dialogue: 0,0:22:20.76,0:22:23.80,Italics,Hayato (M),0,0,0,,Bittiğini sandığım her şey...
+Dialogue: 0,0:22:23.80,0:22:27.80,Italics,Hayato (M),0,0,0,,Yazın gelişiyle geri dönmüştü.
