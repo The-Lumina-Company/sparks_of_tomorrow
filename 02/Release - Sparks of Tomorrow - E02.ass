@@ -1,0 +1,353 @@
+[Script Info]
+Title: The-Lumina-Company - Sparks of Tomorrow
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,2,2,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\fscx75\fscy75\pos(1501.333,343)}Çeviri: Ka4qnn\NRedaksiyon: shxd\NEncode: shxd\NUpload: shxd\NLuminaSubs ekip arkadaşı arıyor!\Nhttps://discord.gg/akzHAQ2Dh6\N
+Dialogue: 9,0:01:37.51,0:01:39.89,Default,,0,0,0,,YARININ KIVILCIMLARI
+Dialogue: 9,0:01:39.97,0:01:43.93,Default,,0,0,0,,İKİNCİ BÖLÜM: KATALOĞUN GİZEMİ
+Dialogue: 9,0:01:45.68,0:01:47.44,Default,,0,0,0,,-Tütsü gibi koktu.\N-Neler oluyor?
+Dialogue: 9,0:01:49.81,0:01:52.52,Default,,0,0,0,,Buldum seni, karıcığım.
+Dialogue: 9,0:01:52.61,0:01:55.69,Default,,0,0,0,,N'oluyor lan?!
+Dialogue: 9,0:01:55.78,0:01:57.57,Default,,0,0,0,,Sen değil! Seninle işim olmaz!
+Dialogue: 9,0:01:57.65,0:01:59.49,Default,,0,0,0,,Eve dönme vakti, karıcığım!
+Dialogue: 9,0:01:59.57,0:02:01.57,Default,,0,0,0,,Tabii 20. Yüzyıl Elektrik Kataloğu'yla beraber!
+Dialogue: 9,0:02:02.08,0:02:03.37,Default,,0,0,0,,Katalog mu?
+Dialogue: 9,0:02:03.45,0:02:07.83,Default,,0,0,0,,-Karıcığım da ne demek oluyor?\N-Benimle evleneceksin demek.
+Dialogue: 9,0:02:07.91,0:02:09.08,Default,,0,0,0,,Evlenmek mi?
+Dialogue: 9,0:02:09.17,0:02:11.38,Default,,0,0,0,,Bu sümsük herif senin nişanlın mı?!
+Dialogue: 9,0:02:11.46,0:02:14.30,Default,,0,0,0,,Hayır! Neden bahsettiği hakkında hiçbir fikrim...
+Dialogue: 9,0:02:14.38,0:02:16.01,Default,,0,0,0,,Olmaz tabii.
+Dialogue: 9,0:02:16.09,0:02:19.30,Default,,0,0,0,,Ne de olsa babanın rızasını\Ndaha yeni aldım.
+Dialogue: 9,0:02:20.43,0:02:22.85,Default,,0,0,0,,Şaşkınlıktan dilin tutuldu tabii.
+Dialogue: 9,0:02:22.93,0:02:24.31,Default,,0,0,0,,Sana hak veriyorum.
+Dialogue: 9,0:02:24.39,0:02:27.39,Default,,0,0,0,,Çok yakında Yosuke\NMizoe'nin karısı olacaksın...
+Dialogue: 9,0:02:27.39,0:02:30.06,Default,,0,0,0,,...yani Mizoe Şirketi'nin varisinin.
+Dialogue: 9,0:02:30.15,0:02:31.48,Default,,0,0,0,,İstemiyorum!
+Dialogue: 9,0:02:32.61,0:02:33.69,Default,,0,0,0,,Nasıl yani?
+Dialogue: 9,0:02:33.77,0:02:36.32,Default,,0,0,0,,Kulaklarım beni yanıltmıyorsa\N"istemiyorum" dedin.
+Dialogue: 9,0:02:36.40,0:02:38.65,Default,,0,0,0,,“İstemiyorum” dedim, çünkü istemiyorum işte!
+Dialogue: 9,0:02:38.74,0:02:39.90,Default,,0,0,0,,İstemiyor musun?
+Dialogue: 9,0:02:39.99,0:02:41.24,Default,,0,0,0,,İstemiyorum!
+Dialogue: 9,0:02:43.83,0:02:46.24,Default,,0,0,0,,Yeter bu kadar naz. Ver şu kataloğu!
+Dialogue: 9,0:02:46.33,0:02:48.54,Default,,0,0,0,,Bırak beni!
+Dialogue: 9,0:02:48.62,0:02:51.04,Default,,0,0,0,,Hop! Kataloğa dikkat etsene!
+Dialogue: 9,0:02:58.80,0:03:00.72,Default,,0,0,0,,Ne yaptığını sanıyorsun, sümsük herif?!
+Dialogue: 9,0:03:04.18,0:03:05.47,Default,,0,0,0,,Kaybol buradan!
+Dialogue: 9,0:03:05.56,0:03:07.72,Default,,0,0,0,,Çok geç kaldın.
+Dialogue: 9,0:03:11.56,0:03:12.94,Default,,0,0,0,,Yosuke!
+Dialogue: 9,0:03:14.90,0:03:15.82,Default,,0,0,0,,Ne yapıy-
+Dialogue: 9,0:03:17.82,0:03:18.90,Default,,0,0,0,,Sakamot-
+Dialogue: 9,0:03:18.99,0:03:20.11,Default,,0,0,0,,Özür dilerim.
+Dialogue: 9,0:03:25.91,0:03:27.62,Default,,0,0,0,,Saçım mahvoldu…
+Dialogue: 9,0:03:36.71,0:03:37.67,Default,,0,0,0,,Bu kadar yeter.
+Dialogue: 9,0:03:39.59,0:03:40.42,Default,,0,0,0,,Kihachi!
+Dialogue: 9,0:03:48.85,0:03:51.43,Default,,0,0,0,,Lanet olsun! O elektrik miydi az önce?
+Dialogue: 9,0:03:51.94,0:03:53.77,Default,,0,0,0,,Anladım. Demek o velet...
+Dialogue: 9,0:03:53.85,0:03:55.69,Default,,0,0,0,,Şimdi ne yapacağız?
+Dialogue: 9,0:03:55.77,0:03:59.03,Default,,0,0,0,,İşimiz bitti burada! \NHadi, çabuk bizi buradan götür!
+Dialogue: 9,0:03:59.53,0:04:02.36,Default,,0,0,0,,Kihachi, kendine gel!
+Dialogue: 9,0:04:02.86,0:04:05.66,Default,,0,0,0,,Katalog… Elektrik kataloğu!
+Dialogue: 9,0:04:06.37,0:04:07.20,Default,,0,0,0,,Kahretsin!
+Dialogue: 9,0:04:19.17,0:04:20.38,Default,,0,0,0,,Olduğun yerde kal!
+Dialogue: 9,0:04:24.05,0:04:26.01,Default,,0,0,0,,Sen inatçı, haylaz bir veletsin!
+Dialogue: 9,0:04:26.01,0:04:28.14,Default,,0,0,0,,Kataloğu ver, sümsük herif!
+Dialogue: 9,0:04:31.47,0:04:34.35,Default,,0,0,0,,Sakamoto-san, burada!
+Dialogue: 9,0:04:34.44,0:04:36.06,Default,,0,0,0,,Yerinden kıpırdama!
+Dialogue: 9,0:04:38.40,0:04:41.19,Default,,0,0,0,,Elindeki tüm elektrik bu mu?
+Dialogue: 9,0:04:41.28,0:04:43.24,Default,,0,0,0,,Onun yanında sen bir hiçsin.
+Dialogue: 9,0:04:43.32,0:04:45.82,Default,,0,0,0,,Yosuke, hızlanıyorum.
+Dialogue: 9,0:04:45.91,0:04:47.07,Default,,0,0,0,,Bas gaza!
+Dialogue: 9,0:04:55.62,0:04:57.04,Default,,0,0,0,,Veda zamanı.
+Dialogue: 9,0:04:57.13,0:04:59.09,Default,,0,0,0,,Lütfen, durdur arabayı.
+Dialogue: 9,0:04:59.67,0:05:01.17,Default,,0,0,0,,Yetti artık.
+Dialogue: 9,0:05:01.25,0:05:04.09,Default,,0,0,0,,Mizoe’nin gelini olacaksın, saçmalama artık!
+Dialogue: 9,0:05:04.67,0:05:07.68,Default,,0,0,0,,Babanın adını lekeleyip durma.
+Dialogue: 9,0:05:10.85,0:05:12.39,Default,,0,0,0,,Hay sokayım...
+Dialogue: 9,0:05:12.47,0:05:15.27,Default,,0,0,0,,Neden kataloğumu bu kadar istiyor?
+Dialogue: 9,0:05:15.35,0:05:17.44,Default,,0,0,0,,Buhar borusu patladı!
+Dialogue: 9,0:05:17.52,0:05:20.27,Default,,0,0,0,,Biri hemen Mizoe Şirketi'ne haber versin!
+Dialogue: 9,0:05:22.15,0:05:23.03,Default,,0,0,0,,Dikkat edin!
+Dialogue: 9,0:05:24.53,0:05:27.20,Default,,0,0,0,,Kaza var.\NBaşka bir yoldan gideceğim.
+Dialogue: 9,0:05:27.28,0:05:30.12,Default,,0,0,0,,Fark etmez, yeter ki çabuk ol!\NLanet olası makine!
+Dialogue: 9,0:05:44.84,0:05:46.55,Default,,0,0,0,,Şu velet var ya...
+Dialogue: 9,0:05:46.63,0:05:48.68,Default,,0,0,0,,Burada karşılaşacağımızı kim düşünürdü?
+Dialogue: 9,0:05:51.60,0:05:52.51,Default,,0,0,0,,Her neyse…
+Dialogue: 9,0:05:52.60,0:05:54.89,Default,,0,0,0,,-Ver şunu artık!\N-Asla!
+Dialogue: 9,0:05:54.97,0:05:56.64,Default,,0,0,0,,Sana uslu dur demiştim.
+Dialogue: 9,0:05:56.73,0:05:58.94,Default,,0,0,0,,-Bana karşı gelme lan!\N-Yaklaşma bana!
+Dialogue: 9,0:05:59.02,0:06:01.98,Default,,0,0,0,,-Atarım bunu camdan!\N-Şu saçmalığa bir son ver!
+Dialogue: 9,0:06:02.07,0:06:03.61,Default,,0,0,0,,Gözlerim duman oldu!
+Dialogue: 9,0:06:04.48,0:06:05.82,Default,,0,0,0,,Yosuke?
+Dialogue: 9,0:06:12.53,0:06:13.41,Default,,0,0,0,,Yosuke?
+Dialogue: 9,0:06:14.87,0:06:15.87,Default,,0,0,0,,Katalog!
+Dialogue: 9,0:06:15.95,0:06:17.25,Default,,0,0,0,,Katalog!
+Dialogue: 9,0:06:17.33,0:06:19.08,Default,,0,0,0,,-Alın şunu!\N-Başüstüne!
+Dialogue: 9,0:06:22.96,0:06:24.25,Default,,0,0,0,,Ben de geleceğim.
+Dialogue: 9,0:06:24.34,0:06:26.30,Default,,0,0,0,,Ne karıştırıyor bu herifler?
+Dialogue: 9,0:06:26.38,0:06:28.63,Default,,0,0,0,,Bugün hava da ne sıcak ama.
+Dialogue: 9,0:06:28.72,0:06:31.18,Default,,0,0,0,,Nişanlıma iyi bakın, gözünüz üzerinde olsun.
+Dialogue: 9,0:06:32.51,0:06:34.43,Default,,0,0,0,,Onu Sakamoto'ya veremez miydin?
+Dialogue: 9,0:06:35.01,0:06:37.52,Default,,0,0,0,,Aynen devam, çocuklar!
+Dialogue: 9,0:06:39.94,0:06:42.44,Default,,0,0,0,,Kihachi, bir el atar mısın?
+Dialogue: 9,0:06:42.52,0:06:44.94,Default,,0,0,0,,İ-iyi misin Kihachi?
+Dialogue: 9,0:06:46.28,0:06:47.99,Default,,0,0,0,,Ödümü kopardı.
+Dialogue: 9,0:06:48.07,0:06:50.45,Default,,0,0,0,,O züppe zırtapoz birden ortaya çıktı.
+Dialogue: 9,0:06:51.24,0:06:52.95,Default,,0,0,0,,Neden kataloğu aldı ki?
+Dialogue: 9,0:06:53.53,0:06:55.12,Default,,0,0,0,,Sonunda geri alabilmiştim.
+Dialogue: 9,0:06:55.62,0:06:57.45,Default,,0,0,0,,Neden gelip onu elimden aldı?
+Dialogue: 9,0:06:57.54,0:06:59.16,Default,,0,0,0,,Kihachi…
+Dialogue: 9,0:07:00.21,0:07:01.67,Default,,0,0,0,,Ne yapacaksın?
+Dialogue: 9,0:07:02.29,0:07:03.29,Default,,0,0,0,,Hay sokayım!
+Dialogue: 9,0:07:05.80,0:07:09.67,Default,,0,0,0,,O katalog olmadan,\Nben sadece korkağın tekiyim.
+Dialogue: 9,0:07:11.97,0:07:13.51,Default,,0,0,0,,Daha fazla gidemem!
+Dialogue: 9,0:07:14.35,0:07:15.26,Default,,0,0,0,,Yosuke!
+Dialogue: 9,0:07:15.35,0:07:16.56,Default,,0,0,0,,Ne oldu yine?
+Dialogue: 9,0:07:33.66,0:07:38.54,Default,,0,0,0,,Baba! Inako'nun Yosuke ile\Nevlenmesine nasıl izin verebildin?
+Dialogue: 9,0:07:38.62,0:07:40.91,Default,,0,0,0,,Şube müdürünün fikriydi.
+Dialogue: 9,0:07:41.00,0:07:45.71,Default,,0,0,0,,Inako, Mizoe ailesine gelin giderse,\Nborçlarımızı tahsil etmeyi erteleyecekler.
+Dialogue: 9,0:07:45.79,0:07:46.92,Default,,0,0,0,,Eğer hayır dersem,
+Dialogue: 9,0:07:47.00,0:07:50.72,Default,,0,0,0,,Meireki'den kalma\Nsake fabrikası iflas edecek.
+Dialogue: 9,0:07:50.80,0:07:52.93,Default,,0,0,0,,Bunun olmasına göz mü yumacaksın?
+Dialogue: 9,0:07:53.01,0:07:54.39,Default,,0,0,0,,Bu saçmalık!
+Dialogue: 9,0:07:54.47,0:07:58.43,Default,,0,0,0,,Yine de, Inako'yu depoya kilitlemek de ne demek…
+Dialogue: 9,0:07:58.51,0:08:00.39,Default,,0,0,0,,Mantıklı düşün biraz.
+Dialogue: 9,0:08:00.48,0:08:07.02,Default,,0,0,0,,Çay sunmaktan bile aciz bir kızı,\Nkim evine gelin almak ister ki?
+Dialogue: 9,0:08:10.28,0:08:14.45,Default,,0,0,0,,Her neyse, evlat dediğin\Nana babasının sözünden çıkmaz.
+Dialogue: 9,0:08:15.03,0:08:17.12,Default,,0,0,0,,Ama Inako henüz 15 yaşında.
+Dialogue: 9,0:08:17.20,0:08:19.70,Default,,0,0,0,,Daha önünde koca bir hayatı var.
+Dialogue: 9,0:08:40.22,0:08:41.14,Default,,0,0,0,,Inari.
+Dialogue: 9,0:08:46.69,0:08:48.90,Default,,0,0,0,,Teşekkür ederim, Inari.
+Dialogue: 9,0:08:49.48,0:08:54.40,Default,,0,0,0,,Evlenmek istemediğimi\Nsöylediğimde, babam beni azarladı.
+Dialogue: 9,0:08:55.36,0:08:56.41,Default,,0,0,0,,Onu anlayabiliyorum.
+Dialogue: 9,0:08:56.49,0:08:57.99,Default,,0,0,0,,Eğer bir şeyler yapmazsak,
+Dialogue: 9,0:08:58.07,0:09:01.37,Default,,0,0,0,,annemden bize miras kalan sake\Nfabrikasının kapanması gerekecek.
+Dialogue: 9,0:09:02.75,0:09:06.00,Default,,0,0,0,,Şube müdürüyle evlenirsem…
+Dialogue: 9,0:09:07.00,0:09:08.75,Default,,0,0,0,,Hep aynı şey oluyor.
+Dialogue: 9,0:09:09.25,0:09:12.21,Default,,0,0,0,,Önce karşı çıkıp onu kızdırırım.
+Dialogue: 9,0:09:12.30,0:09:14.42,Default,,0,0,0,,Sonra depoya kilitlenirim.
+Dialogue: 9,0:09:14.51,0:09:19.14,Default,,0,0,0,,Sonra babam beni görmeye\Ngelir ve özür dilerim.
+Dialogue: 9,0:09:20.01,0:09:21.97,Default,,0,0,0,,Sonra da onca şeyin ardından...
+Dialogue: 9,0:09:22.06,0:09:24.39,Default,,0,0,0,,...sonra da onunla evlenecek misin?
+Dialogue: 9,0:09:24.89,0:09:26.44,Default,,0,0,0,,Sakamoto?
+Dialogue: 9,0:09:30.02,0:09:32.23,Default,,0,0,0,,Sakamoto, burada ne işin var?
+Dialogue: 9,0:09:32.32,0:09:33.99,Default,,0,0,0,,Bana Kihachi de.
+Dialogue: 9,0:09:34.07,0:09:35.19,Default,,0,0,0,,Ki… ha…
+Dialogue: 9,0:09:35.28,0:09:40.45,Default,,0,0,0,,Dün fonografla konuşurken,\N“Fushimi’deki sake fabrikası” demiştin.
+Dialogue: 9,0:09:41.03,0:09:42.37,Default,,0,0,0,,Boş ver onu!
+Dialogue: 9,0:09:42.45,0:09:44.58,Default,,0,0,0,,Biri seni görürse başın belaya girer!
+Dialogue: 9,0:09:44.66,0:09:48.58,Default,,0,0,0,,Katalog hakkında\Ndoğrulamam gereken bir şey var.
+Dialogue: 9,0:09:49.17,0:09:51.21,Default,,0,0,0,,O zaman al.
+Dialogue: 9,0:09:51.84,0:09:53.21,Default,,0,0,0,,Onu almadı mı?
+Dialogue: 9,0:09:54.30,0:09:56.80,Default,,0,0,0,,Saklamıştım.
+Dialogue: 9,0:09:58.01,0:10:00.43,Default,,0,0,0,,20. YÜZYIL ELEKTRİK KATALOĞU
+Dialogue: 9,0:10:07.77,0:10:09.60,Default,,0,0,0,,Şimdi! Izo! Kuga!
+Dialogue: 9,0:10:17.86,0:10:21.03,Default,,0,0,0,,Ver şunu bana, çabuk!
+Dialogue: 9,0:10:23.45,0:10:24.66,Default,,0,0,0,,Boş.
+Dialogue: 9,0:10:25.66,0:10:28.41,Default,,0,0,0,,Şimdi başını belaya soktun, hayatım.
+Dialogue: 9,0:10:29.75,0:10:31.17,Default,,0,0,0,,Hiç şüphesiz bu o.
+Dialogue: 9,0:10:31.75,0:10:34.42,Default,,0,0,0,,Ağabeyim Seiroku'nun bana verdiği\nkatalog bu.
+Dialogue: 9,0:10:43.01,0:10:45.14,Default,,0,0,0,,Ağabeyin mi verdi bunu sana?
+Dialogue: 9,0:10:46.14,0:10:48.81,Default,,0,0,0,,Elektrikli icat fikirlerimi not etmemi isterdi.
+Dialogue: 9,0:10:49.39,0:10:51.90,Default,,0,0,0,,20. yüzyılın Elektrik Çağı\nolacağını söylerdi.
+Dialogue: 9,0:10:52.40,0:10:54.57,Default,,0,0,0,,Beni dünya fuarına götürmüştü.
+Dialogue: 9,0:10:56.15,0:10:57.78,Default,,0,0,0,,O günden beri,
+Dialogue: 9,0:10:57.86,0:11:02.20,Default,,0,0,0,,geleceğe dair sayısız hayal\Nzihnimde şekillenmeye başladı.
+Dialogue: 9,0:11:04.24,0:11:06.87,Default,,0,0,0,,NUMARA 2 - ELEKTRİK
+Dialogue: 9,0:11:08.12,0:11:12.46,Default,,0,0,0,,Ağabeyine gerçekten hayransın, değil mi?
+Dialogue: 9,0:11:13.96,0:11:16.67,Default,,0,0,0,,Elektrik Çağı'nın geldiğini söylemişti
+Dialogue: 9,0:11:16.75,0:11:20.13,Default,,0,0,0,,ama kataloğu alıp savaşa gitti\Nve bir daha geri dönmedi.
+Dialogue: 9,0:11:20.88,0:11:22.76,Default,,0,0,0,,Ona bunca zaman inandım.
+Dialogue: 9,0:11:23.26,0:11:24.64,Default,,0,0,0,,Öyle birine hayran olamam.
+Dialogue: 9,0:11:26.10,0:11:28.22,Default,,0,0,0,,Ama şimdi elimizde.
+Dialogue: 9,0:11:28.85,0:11:30.10,Default,,0,0,0,,Yemezler.
+Dialogue: 9,0:11:30.60,0:11:32.02,Default,,0,0,0,,Ne demek o?
+Dialogue: 9,0:11:32.10,0:11:36.11,Default,,0,0,0,,Savaşa götürdüğü katalog neden\nablanın elinde olsun ki, Inako?
+Dialogue: 9,0:11:36.19,0:11:38.36,Default,,0,0,0,,Her neyse, bu sadece ilk yarısı.
+Dialogue: 9,0:11:38.44,0:11:42.57,Default,,0,0,0,,Shiga'da okumuştu. Kyoto'daki birinin\Nbu işle ne alakası olabilir ki?
+Dialogue: 9,0:11:42.66,0:11:44.87,Default,,0,0,0,,Onu bir şekilde tanıyor olmalı.
+Dialogue: 9,0:11:45.45,0:11:47.62,Default,,0,0,0,,Bu kadar değerli bir kataloğu\Nona verecek kadar mı?
+Dialogue: 9,0:11:47.70,0:11:49.41,Default,,0,0,0,,Sorun ne ki?
+Dialogue: 9,0:11:49.50,0:11:52.25,Default,,0,0,0,,Sanki ablam yanlış bir şey\Nyapmış gibi konuşuyorsun.
+Dialogue: 9,0:11:52.33,0:11:54.46,Default,,0,0,0,,Hayır, sadece şüpheli buluyorum.
+Dialogue: 9,0:11:54.54,0:11:57.04,Default,,0,0,0,,İnsanlardan şüphe etmemelisin!
+Dialogue: 9,0:11:57.13,0:12:00.80,Default,,0,0,0,,Aramızdaki bağları koruyan şey,\Nbirbirimize inanmaktır!
+Dialogue: 9,0:12:03.38,0:12:04.47,Default,,0,0,0,,Öyle olsun.
+Dialogue: 9,0:12:05.05,0:12:06.35,Default,,0,0,0,,Ben gidiyorum.
+Dialogue: 9,0:12:11.14,0:12:12.56,Default,,0,0,0,,Hoşça kal.
+Dialogue: 9,0:12:12.64,0:12:15.81,Default,,0,0,0,,Babam birazdan bana bakmaya gelir.
+Dialogue: 9,0:12:15.90,0:12:18.94,Default,,0,0,0,,Lütfen o gelmeden buradan git.
+Dialogue: 9,0:12:20.74,0:12:22.70,Default,,0,0,0,,Sıkıştı!
+Dialogue: 9,0:12:22.78,0:12:25.91,Default,,0,0,0,,Aptal şey! Lanet olsun!
+Dialogue: 9,0:12:41.21,0:12:43.13,Default,,0,0,0,,Başardım!
+Dialogue: 9,0:12:45.34,0:12:49.26,Default,,0,0,0,,Neden sana yardım ettim ki?
+Dialogue: 9,0:12:51.31,0:12:53.60,Default,,0,0,0,,Geri dönmem gerek.
+Dialogue: 9,0:12:56.19,0:12:57.86,Default,,0,0,0,,Dönmen sorun olmaz mı?
+Dialogue: 9,0:12:57.94,0:12:58.90,Default,,0,0,0,,Ne?
+Dialogue: 9,0:12:59.98,0:13:01.07,Default,,0,0,0,,Şey…
+Dialogue: 9,0:13:02.07,0:13:05.57,Default,,0,0,0,,Geri dönersem, o adamla ben…
+Dialogue: 9,0:13:06.07,0:13:08.49,Default,,0,0,0,,Harbiden evlenmek istiyor musun?
+Dialogue: 9,0:13:08.57,0:13:09.87,Default,,0,0,0,,Bu...
+Dialogue: 9,0:13:10.41,0:13:13.37,Default,,0,0,0,,Babam öyle karar verdi.
+Dialogue: 9,0:13:14.00,0:13:15.04,Default,,0,0,0,,Inako.
+Dialogue: 9,0:13:16.58,0:13:17.50,Default,,0,0,0,,Gel benimle.
+Dialogue: 9,0:13:30.85,0:13:33.02,Default,,0,0,0,,Çok değişmişsin, Yosuke.
+Dialogue: 9,0:13:33.60,0:13:35.94,Default,,0,0,0,,Böyle abartılı kıyafetler falan…
+Dialogue: 9,0:13:36.02,0:13:37.39,Default,,0,0,0,,Sonra konuşalım mı?
+Dialogue: 9,0:13:37.98,0:13:41.69,Default,,0,0,0,,Kataloğu neden istiyorsun?
+Dialogue: 9,0:13:41.77,0:13:45.74,Default,,0,0,0,,Kataloğun ne kadar değerli\Nolduğundan haberin yok, değil mi?
+Dialogue: 9,0:13:45.82,0:13:46.65,Default,,0,0,0,,Değerli mi?
+Dialogue: 9,0:13:49.11,0:13:50.41,Default,,0,0,0,,Izo! Acele et!
+Dialogue: 9,0:13:51.28,0:13:52.70,Default,,0,0,0,,Vay!
+Dialogue: 9,0:13:56.83,0:14:00.54,Default,,0,0,0,,Eğer kafa dağıtman gerekirse,\Nsana her zaman yardım edebilirim.
+Dialogue: 9,0:14:06.92,0:14:08.22,Default,,0,0,0,,Kihachi,
+Dialogue: 9,0:14:08.30,0:14:10.09,Default,,0,0,0,,çok teşekkür ederim.
+Dialogue: 9,0:14:15.22,0:14:16.93,Default,,0,0,0,,Inako?
+Dialogue: 9,0:14:17.02,0:14:20.02,Default,,0,0,0,,-Inako? Biri gelsin—\N-Baba, başım dönüyor!
+Dialogue: 9,0:14:20.10,0:14:21.44,Default,,0,0,0,,Hadi be!
+Dialogue: 9,0:14:21.52,0:14:23.94,Default,,0,0,0,,Noriko, ne yapıyorsun?
+Dialogue: 9,0:14:24.53,0:14:26.99,Default,,0,0,0,,-İyi misin? Baba!\N-Bırak beni!
+Dialogue: 9,0:14:27.07,0:14:28.53,Default,,0,0,0,,Hey! Biri yardım etsin!
+Dialogue: 9,0:14:28.61,0:14:29.57,Default,,0,0,0,,Bizi gördüler!
+Dialogue: 9,0:14:29.66,0:14:31.07,Default,,0,0,0,,Hadi kaçalım!
+Dialogue: 9,0:14:31.16,0:14:33.16,Default,,0,0,0,,Seni yakalarlarsa kötü olur!
+Dialogue: 9,0:14:33.24,0:14:34.95,Default,,0,0,0,,-Bekle, Inako!\N-Baba!
+Dialogue: 9,0:14:35.04,0:14:36.37,Default,,0,0,0,,Ne yapıyorsun sen?
+Dialogue: 9,0:14:36.45,0:14:38.83,Default,,0,0,0,,Bu bir uçurtma. Bununla uçabilirim.
+Dialogue: 9,0:14:39.44,0:14:41.92,Default,,0,0,0,,Vay! Sahiden uçabilir misin?
+Dialogue: 9,0:14:41.92,0:14:43.54,Default,,0,0,0,,Kağıt üstünde evet.
+Dialogue: 9,0:14:44.04,0:14:47.21,Default,,0,0,0,,Ama gerçekte… emin değilim.
+Dialogue: 9,0:14:47.30,0:14:49.76,Default,,0,0,0,,Kendinden şüphe mi ediyorsun?
+Dialogue: 9,0:14:49.84,0:14:52.05,Default,,0,0,0,,Bunları kullanacağımı hiç düşünmemiştim.
+Dialogue: 9,0:14:52.14,0:14:54.31,Default,,0,0,0,,-Yakalayın şunları!\N-Üstelik icatlarım…
+Dialogue: 9,0:14:55.10,0:14:59.18,Default,,0,0,0,,Onunkilerle kıyaslayınca,\Nuçması imkânsız.
+Dialogue: 9,0:15:03.23,0:15:04.44,Default,,0,0,0,,N-ne yapıyorsun?
+Dialogue: 9,0:15:04.52,0:15:06.32,Default,,0,0,0,,-Sana inanıyorum!\N-Hı?
+Dialogue: 9,0:15:06.40,0:15:07.57,Default,,0,0,0,,Hadi gidelim!
+Dialogue: 9,0:15:08.40,0:15:09.80,Default,,0,0,0,,Bekle!
+Dialogue: 9,0:15:09.80,0:15:12.53,Default,,0,0,0,,Hey! Düşeceğiz, Inako! Dur!
+Dialogue: 9,0:15:12.53,0:15:15.95,Default,,0,0,0,,-İşte başlıyoruz!\N-Uçmuyoruz! Dur dedim sana!
+Dialogue: 9,0:15:21.12,0:15:24.13,Default,,0,0,0,,Var gücünle zıpla!
+Dialogue: 9,0:15:25.13,0:15:26.84,Default,,0,0,0,,Hanımefendi!
+Dialogue: 9,0:15:52.15,0:15:53.95,Default,,0,0,0,,Kızımız uçuyor, baba!
+Dialogue: 9,0:15:54.03,0:15:55.32,Default,,0,0,0,,Çekil üstümden artık!
+Dialogue: 9,0:15:55.41,0:15:57.95,Default,,0,0,0,,Suzu, o da neyin nesi?
+Dialogue: 9,0:15:58.54,0:16:00.25,Default,,0,0,0,,Inako uçuyor.
+Dialogue: 9,0:16:00.33,0:16:02.75,Default,,0,0,0,,Hey, ben de bakmak istiyorum!
+Dialogue: 9,0:16:04.96,0:16:06.50,Default,,0,0,0,,Dumanın üzerine mi çıktık?
+Dialogue: 9,0:16:07.09,0:16:12.13,Default,,0,0,0,,-Dumanın altından Kyoto'yu görebiliyorum!\N-Uçuyoruz lan! Harbiden uçuyoruz!
+Dialogue: 9,0:16:12.22,0:16:14.18,Default,,0,0,0,,Gökyüzü burnumuzun dibinde!
+Dialogue: 9,0:16:14.26,0:16:15.97,Default,,0,0,0,,Gerçekten çok güzel!
+Dialogue: 9,0:16:24.14,0:16:27.19,Default,,0,0,0,,Evet, çok güzel.
+Dialogue: 9,0:16:27.69,0:16:30.15,Default,,0,0,0,,Gökyüzüne dokunabilirmişim gibi geliyor.
+Dialogue: 9,0:16:30.23,0:16:31.24,Default,,0,0,0,,Evet.
+Dialogue: 9,0:16:32.99,0:16:35.82,Default,,0,0,0,,Fuji Dağı'nı görebilir miyiz?
+Dialogue: 9,0:16:35.91,0:16:36.91,Default,,0,0,0,,Fuji Dağı mı?
+Dialogue: 9,0:16:37.49,0:16:39.49,Default,,0,0,0,,Sanki rüyadaymışım gibi.
+Dialogue: 9,0:16:43.91,0:16:45.75,Default,,0,0,0,,Hadi, böyle uçmaya devam edelim-
+Dialogue: 9,0:16:45.83,0:16:47.25,Default,,0,0,0,,Eyvah!
+Dialogue: 9,0:16:53.47,0:16:54.76,Default,,0,0,0,,Yosuke!
+Dialogue: 9,0:16:55.34,0:16:57.39,Default,,0,0,0,,Başka çaremiz yok!
+Dialogue: 9,0:16:57.47,0:16:59.51,Default,,0,0,0,,-Hadi yapalım!\N-Tamam!
+Dialogue: 9,0:17:04.85,0:17:07.27,Default,,0,0,0,,-Üçe kadar sayıyorum!\N-Tamam!
+Dialogue: 9,0:17:07.35,0:17:08.77,Default,,0,0,0,,Bir, iki...
+Dialogue: 9,0:17:23.91,0:17:25.29,Default,,0,0,0,,İyi misin?
+Dialogue: 9,0:17:26.29,0:17:27.79,Default,,0,0,0,,Şaka yapıyor olmalısın!
+Dialogue: 9,0:17:28.29,0:17:30.79,Default,,0,0,0,,Neler oluyor? Inako…
+Dialogue: 9,0:17:30.88,0:17:34.21,Default,,0,0,0,,-Nişanlım! Nişanlımı kaçırıyor!\N-Kaçırılmış mı?
+Dialogue: 9,0:17:38.30,0:17:41.22,Default,,0,0,0,,Neden durdun Izo?\NDönüp etraflarını sar!
+Dialogue: 9,0:17:42.39,0:17:43.22,Default,,0,0,0,,Acıyor!
+Dialogue: 9,0:17:43.81,0:17:45.48,Default,,0,0,0,,Galiba bileğimi burktum.
+Dialogue: 9,0:17:45.56,0:17:46.81,Default,,0,0,0,,Bana yaslan.
+Dialogue: 9,0:17:49.35,0:17:50.23,Default,,0,0,0,,O da neydi?
+Dialogue: 9,0:17:50.31,0:17:52.44,Default,,0,0,0,,Buldum seni, kız kaçıran!
+Dialogue: 9,0:17:52.44,0:17:54.86,Default,,0,0,0,,Inako'yu hemen bırak!
+Dialogue: 9,0:17:54.94,0:17:56.32,Default,,0,0,0,,Bu cidden insan mı?
+Dialogue: 9,0:17:56.40,0:17:59.95,Default,,0,0,0,,Ablam, Kengo'nun insandan çok\Nbuharlı tren olduğunu söylemişti!
+Dialogue: 9,0:18:00.03,0:18:01.78,Default,,0,0,0,,Bildiğin lokomotif mi yani?
+Dialogue: 9,0:18:19.55,0:18:21.05,Default,,0,0,0,,Kihachi, bu taraftan!
+Dialogue: 9,0:18:21.14,0:18:22.05,Default,,0,0,0,,Tamam.
+Dialogue: 9,0:18:23.39,0:18:24.81,Default,,0,0,0,,-Çok karanlık!\N-Kihachi?
+Dialogue: 9,0:18:25.39,0:18:28.69,Default,,0,0,0,,Olmaz. Karanlıktan nefret ederim.
+Dialogue: 9,0:18:28.77,0:18:30.94,Default,,0,0,0,,Depodayken gayet iyiydin ama.
+Dialogue: 9,0:18:31.02,0:18:33.73,Default,,0,0,0,,Orada az da olsa gün ışığı vardı.
+Dialogue: 9,0:18:33.82,0:18:35.82,Default,,0,0,0,,Geri dön, Izo! Bir terslik var.
+Dialogue: 9,0:18:35.90,0:18:37.65,Default,,0,0,0,,Hadi geri dönelim.
+Dialogue: 9,0:18:37.74,0:18:39.78,Default,,0,0,0,,Geri dönersek yakalanırsın.
+Dialogue: 9,0:18:40.66,0:18:41.87,Default,,0,0,0,,Kihachi.
+Dialogue: 9,0:18:43.41,0:18:46.91,Default,,0,0,0,,Ben sana yol gösteririm, birlikte gidebiliriz.
+Dialogue: 9,0:18:48.08,0:18:49.75,Default,,0,0,0,,Korkmuyor musun?
+Dialogue: 9,0:18:49.83,0:18:53.09,Default,,0,0,0,,Yüce Tanrı Akubi'ye güveniyorum!
+Dialogue: 9,0:18:59.05,0:19:01.09,Default,,0,0,0,,Bu tarafa gitmiş olmalılar.
+Dialogue: 9,0:19:01.18,0:19:05.35,Default,,0,0,0,,Nerede lan o kız kaçıran?
+Dialogue: 9,0:19:05.43,0:19:07.14,Default,,0,0,0,,Şu lanet olası Kuga.
+Dialogue: 9,0:19:07.22,0:19:10.27,Default,,0,0,0,,Kuga! Inako'yu kaçıran burada!
+Dialogue: 9,0:19:10.35,0:19:12.06,Default,,0,0,0,,-Izo, yardım et şuna.\N-Başüstüne!
+Dialogue: 9,0:19:16.69,0:19:19.19,Default,,0,0,0,,Kengo bu olmalı. Hadi, çabuk olalım.
+Dialogue: 9,0:19:28.20,0:19:30.04,Default,,0,0,0,,Çıkmayı başardık.
+Dialogue: 9,0:19:32.29,0:19:35.00,Default,,0,0,0,,Beni çok uğraştırdın, hayatım.
+Dialogue: 9,0:19:35.79,0:19:39.59,Default,,0,0,0,,-Bırak onu!\N-Sonunda yakaladım seni, kız kaçıran.
+Dialogue: 9,0:19:39.67,0:19:41.18,Default,,0,0,0,,Kime diyorsun lan sen onu?
+Dialogue: 9,0:19:41.26,0:19:43.59,Default,,0,0,0,,Kengo, yanılıyorsun!
+Dialogue: 9,0:19:43.68,0:19:45.64,Default,,0,0,0,,Hayır, bir yanlışlık yok.
+Dialogue: 9,0:19:46.22,0:19:48.14,Default,,0,0,0,,Sen benim nişanlımsın.
+Dialogue: 9,0:19:48.22,0:19:51.14,Default,,0,0,0,,20. YÜZYIL ELEKTRİK KATALOĞU
+Dialogue: 9,0:19:55.61,0:19:58.73,Default,,0,0,0,,20. Yüzyıl Elektrik Kataloğu...
+Dialogue: 9,0:20:01.45,0:20:02.40,Default,,0,0,0,,O benim!
+Dialogue: 9,0:20:02.99,0:20:06.28,Default,,0,0,0,,O, bana ve ağabeyim Seiroku'ya ait!
+Dialogue: 9,0:20:06.37,0:20:08.54,Default,,0,0,0,,Ağabeyin Seiro-
+Dialogue: 9,0:20:08.62,0:20:10.04,Default,,0,0,0,,Ben Kihachi Sakamoto!
+Dialogue: 9,0:20:10.66,0:20:12.79,Default,,0,0,0,,Seiroku Sakamoto'nun küçük kardeşi!
+Dialogue: 9,0:20:14.37,0:20:16.29,Default,,0,0,0,,Bunu biliyordum.
+Dialogue: 9,0:20:17.04,0:20:18.25,Default,,0,0,0,,-Izo.\N-Buyurun efendim?
+Dialogue: 9,0:20:21.88,0:20:22.80,Default,,0,0,0,,Kihachi!
+Dialogue: 9,0:20:22.88,0:20:24.80,Default,,0,0,0,,Lan, çek elini üstümden!
+Dialogue: 9,0:20:24.80,0:20:26.05,Default,,0,0,0,,Kıpırdama lütfen.
+Dialogue: 9,0:20:26.14,0:20:28.22,Default,,0,0,0,,Hey! Bırak beni dedim!
+Dialogue: 9,0:20:28.31,0:20:30.81,Default,,0,0,0,,Katalog benim dedim ya! Hey!
+Dialogue: 9,0:20:38.69,0:20:41.24,Default,,0,0,0,,Burada mısın, Jinemon?
+Dialogue: 9,0:20:41.90,0:20:44.20,Default,,0,0,0,,Nişanlımı geri getirdim.
+Dialogue: 9,0:20:46.57,0:20:48.70,Default,,0,0,0,,-Inako!\N-Inako!
+Dialogue: 9,0:20:48.78,0:20:50.74,Default,,0,0,0,,Abla, ben… Ah!
+Dialogue: 9,0:20:50.83,0:20:52.58,Default,,0,0,0,,Bacağını mı incittin?
+Dialogue: 9,0:20:53.79,0:20:56.08,Default,,0,0,0,,Hanımefendi, yaranızı saracağım.
+Dialogue: 9,0:20:56.17,0:20:57.96,Default,,0,0,0,,Teşekkürler, Tome.
+Dialogue: 9,0:21:02.05,0:21:04.34,Default,,0,0,0,,Kızını kaçıran kişi.
+Dialogue: 9,0:21:05.18,0:21:08.18,Default,,0,0,0,,Gerçekten de, başa çıkması zor biri.
+Dialogue: 9,0:21:08.18,0:21:11.89,Default,,0,0,0,,Onu yakalamayı nasıl başardınız?
+Dialogue: 9,0:21:11.97,0:21:14.48,Default,,0,0,0,,Sanırım kader böyle istedi.
+Dialogue: 9,0:21:16.48,0:21:19.56,Default,,0,0,0,,-Bu Kihachi Sakamoto mu?\N-Evet.
+Dialogue: 9,0:21:20.07,0:21:23.03,Default,,0,0,0,,Ne olup bittiğini ben de\Ntam olarak anlamış değilim.
+Dialogue: 9,0:21:23.11,0:21:23.99,Default,,0,0,0,,Kahretsin!
+Dialogue: 9,0:21:27.66,0:21:28.70,Default,,0,0,0,,Yosuke.
+Dialogue: 9,0:21:30.58,0:21:32.12,Default,,0,0,0,,Sonunda…
+Dialogue: 9,0:21:32.20,0:21:35.12,Default,,0,0,0,,Seni sümsük herif!\NKataloğumu geri ver!
+Dialogue: 9,0:21:36.29,0:21:38.13,Default,,0,0,0,,İstediğin kadar bağırabilirsin.
+Dialogue: 9,0:21:38.71,0:21:43.51,Default,,0,0,0,,Seiroku, hayallerimizi gerçeğe\Ndönüştürme zamanımız nihayet geldi.
+Dialogue: 9,0:21:50.35,0:21:51.39,Default,,0,0,0,,Bu da neyin nesi?
+Dialogue: 9,0:21:51.47,0:21:53.89,Default,,0,0,0,,20. YÜZYIL, YENİ BİR ÇAĞ—
+Dialogue: 9,0:21:53.97,0:21:55.23,Default,,0,0,0,,Olamaz…
+Dialogue: 9,0:21:57.73,0:21:59.35,Default,,0,0,0,,Sadece bu kadar mı yani…
+Dialogue: 9,0:22:01.20,0:22:02.15,Default,,0,0,0,,Saçmalık!
+Dialogue: 9,0:22:02.23,0:22:05.24,Default,,0,0,0,,Hepsi çocuk karalamasından ibaret!
+Dialogue: 9,0:22:06.24,0:22:09.11,Default,,0,0,0,,Bu kataloğun muazzam bir gücü var.
+Dialogue: 9,0:22:09.20,0:22:10.66,Default,,0,0,0,,Bu bir gizem.
+Dialogue: 9,0:22:10.74,0:22:12.95,Default,,0,0,0,,Hayır! Böyle olamaz!
+Dialogue: 9,0:22:13.58,0:22:16.08,Default,,0,0,0,,Değil mi? Gerçek katalog…
+Dialogue: 9,0:22:18.75,0:22:20.08,Default,,0,0,0,,İmkânsız!
+Dialogue: 9,0:22:20.96,0:22:22.54,Default,,0,0,0,,Bu düpedüz sahte!
+Dialogue: 9,0:22:25.46,0:22:28.09,Default,,0,0,0,,Sana söylüyorum, bu katalog sahte!
+Dialogue: 9,0:22:28.18,0:22:30.26,Default,,0,0,0,,Nerede lan bunun gerçeği?
+Dialogue: 9,0:22:35.02,0:22:36.73,Default,,0,0,0,,Sahte mi?..
