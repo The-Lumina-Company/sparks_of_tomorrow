@@ -1,0 +1,393 @@
+[Script Info]
+Title: The-Lumina-Company - Sparks of Tomorrow
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: style1,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,style1,,0,0,0,,{\pos(1890,30)\an9\c&H00D7FF&}► Çeviri: {\b0\c&HFFFFFF&}ka4qnn, Ata, Plopy\N{\c&HFF55AA&}► {\b1}Redaksiyon: {\b0\c&HFFFFFF&}ka4qnn\N{\c&H55FF55&}► {\b1}Encode: {\b0\c&HFFFFFF&}shxd\N{\c&HFFFF55&}► {\b1}Upload: {\b0\c&HFFFFFF&}shxd\N\N{\c&HAAAAAA&\fscx65\fscy65}discord.gg/akzHAQ2Dh6
+Dialogue: 9,0:00:24.98,0:00:26.44,style1,,0,0,0,,Ne yapıyorsun ya?
+Dialogue: 9,0:00:26.52,0:00:28.82,style1,,0,0,0,,Yazma işi iyi gidiyor gibi.
+Dialogue: 9,0:00:29.32,0:00:30.28,style1,,0,0,0,,Evet.
+Dialogue: 0,0:00:30.78,0:00:32.99,style1,,0,0,0,,{\pos(960,108)}Bir tane daha yazarsam 20 olacak.
+Dialogue: 0,0:00:33.07,0:00:35.20,style1,,0,0,0,,{\pos(960,108)}Aklıma başka ne gelecek acaba?
+Dialogue: 9,0:00:35.78,0:00:38.70,style1,,0,0,0,,-Kihachi, senden bir ricam var.\N-Neymiş o?
+Dialogue: 9,0:00:38.78,0:00:41.49,style1,,0,0,0,,Elektrik Kataloğu'nu bana ödünç verir misin?
+Dialogue: 9,0:00:43.25,0:00:45.21,style1,,0,0,0,,Onu savaşa mı götüreceksin?
+Dialogue: 9,0:00:45.29,0:00:46.25,style1,,0,0,0,,Ne yapıyo--
+Dialogue: 9,0:00:47.83,0:00:50.05,style1,,0,0,0,,Ne olur ne olmaz, ölür...
+Dialogue: 9,0:00:50.55,0:00:52.76,style1,,0,0,0,,Ah, boş ver.
+Dialogue: 0,0:00:53.26,0:00:54.63,style1,,0,0,0,,{\pos(960,108)}Kihachi,
+Dialogue: 0,0:00:54.72,0:00:57.26,style1,,0,0,0,,{\pos(960,108)}savaştan döndüğümde,
+Dialogue: 0,0:00:57.34,0:00:59.64,style1,,0,0,0,,{\pos(960,108)}katalogdaki her şeyi yapalım.
+Dialogue: 0,0:00:59.72,0:01:01.77,style1,,0,0,0,,{\pos(960,108)}Olur, söz veriyorum.
+Dialogue: 0,0:01:01.85,0:01:04.35,style1,,0,0,0,,{\pos(960,108)}Peki, ben de söz veriyorum.
+Dialogue: 9,0:01:09.81,0:01:11.23,style1,,0,0,0,,İçinde ne yazıyor?\N
+Dialogue: 9,0:01:14.19,0:01:15.95,style1,,0,0,0,,Elektriğin...
+Dialogue: 9,0:01:16.95,0:01:18.91,style1,,0,0,0,,...insan gücünün çok ötesinde olduğu.
+Dialogue: 9,0:01:18.99,0:01:21.33,style1,,0,0,0,,Bu... inanılmaz bir şey!
+Dialogue: 9,0:01:22.12,0:01:23.08,style1,,0,0,0,,Bu bir sır.
+Dialogue: 9,0:01:23.66,0:01:24.66,style1,,0,0,0,,Seiroku…
+Dialogue: 9,0:01:25.66,0:01:29.67,style1,,0,0,0,,B-böyle olduğum için, henüz\Nailemin güvenini kazanamadım.
+Dialogue: 9,0:01:30.34,0:01:32.21,style1,,0,0,0,,Ama o güveni kazanacağım.
+Dialogue: 9,0:01:32.30,0:01:34.71,style1,,0,0,0,,Mizoe Şirketi'nin gücünü özgürce kullanabilecek kadar hem de!
+Dialogue: 9,0:01:34.80,0:01:36.01,style1,,0,0,0,,Söz veriyorum!
+Dialogue: 9,0:01:36.09,0:01:38.64,style1,,0,0,0,,O yüzden sana yardım\Netmeme izin ver, Seiroku.
+Dialogue: 9,0:01:38.72,0:01:41.97,style1,,0,0,0,,Olur, Yosuke.\NGeleceği birlikte görelim!
+Dialogue: 9,0:01:42.06,0:01:43.22,style1,,0,0,0,,Evet!
+Dialogue: 9,0:01:43.89,0:01:47.02,style1,,0,0,0,,Yirminci yüzyılı Elektrik Çağı yapalım!
+Dialogue: 0,0:01:47.64,0:01:48.48,style1,,0,0,0,,{\pos(960,108)}YARININ KIVILCIMLARI
+Dialogue: 0,0:01:48.56,0:01:51.94,style1,,0,0,0,,{\pos(960,108)}ÜÇÜNCÜ BÖLÜM: ORTAK BİR HAYAL
+Dialogue: 9,0:01:52.65,0:01:55.44,style1,,0,0,0,,Hayır! Bu olamaz!
+Dialogue: 9,0:01:56.32,0:01:57.36,style1,,0,0,0,,İmkânsız!
+Dialogue: 9,0:01:58.03,0:02:00.12,style1,,0,0,0,,Bu düpedüz sahte!
+Dialogue: 9,0:02:01.74,0:02:05.37,style1,,0,0,0,,Sana söylüyorum, bu katalog sahte!
+Dialogue: 9,0:02:05.45,0:02:08.29,style1,,0,0,0,,Nerede lan bunun gerçeği?
+Dialogue: 9,0:02:09.25,0:02:12.34,style1,,0,0,0,,Sahte mi?\NNeden bahsediyorsun sen?
+Dialogue: 9,0:02:12.42,0:02:14.75,style1,,0,0,0,,-Bu gerçek katalog!\N-Yalan söyleme!
+Dialogue: 9,0:02:14.84,0:02:18.22,style1,,0,0,0,,Bu katalogda Seiroku'nun dehası olmalı!
+Dialogue: 9,0:02:19.55,0:02:21.44,style1,,0,0,0,,Bu katalog sayesinde...
+Dialogue: 9,0:02:21.44,0:02:26.06,style1,,0,0,0,,Seiroku, 20. yüzyılın Elektrik Çağı\Nolacağını söylemişti lan!
+Dialogue: 9,0:02:26.14,0:02:29.98,style1,,0,0,0,,Seiroku bu sayfalara çok\Nönemli bilgiler yazmış olmalıydı!
+Dialogue: 9,0:02:30.06,0:02:30.98,style1,,0,0,0,,Bu...
+Dialogue: 9,0:02:31.48,0:02:32.65,style1,,0,0,0,,Bu...
+Dialogue: 9,0:02:33.44,0:02:35.32,style1,,0,0,0,,-Beş para etmez lan bu!\N-Yosuke-sama?
+Dialogue: 9,0:02:35.40,0:02:36.78,style1,,0,0,0,,Keşke elimde...
+Dialogue: 9,0:02:37.40,0:02:39.36,style1,,0,0,0,,"Elektrikli Dolunay" da ne demek?
+Dialogue: 9,0:02:39.45,0:02:42.53,style1,,0,0,0,,Ampullerin teli koptuğu gibi söner!
+Dialogue: 9,0:02:43.12,0:02:46.12,style1,,0,0,0,,Bırak dolunayı, gaz lambalarının\Nyerini bile tutamazlar!
+Dialogue: 9,0:02:46.20,0:02:48.50,style1,,0,0,0,,Sonraki de öyle!\NSonraki de!
+Dialogue: 9,0:02:48.58,0:02:51.33,style1,,0,0,0,,Hepsi ama hepsi\Nsadece çocukça bir hayal!
+Dialogue: 9,0:02:51.42,0:02:52.71,style1,,0,0,0,,Sadece karalamalardan ibaret!
+Dialogue: 9,0:02:52.75,0:02:57.55,style1,,0,0,0,,Bu katalog... bu katalog bizim tek\Numudumuz olacaktı lan güya!
+Dialogue: 9,0:02:57.63,0:02:59.01,style1,,0,0,0,,Yanılıyorsun.
+Dialogue: 9,0:02:59.09,0:03:00.80,style1,,0,0,0,,Bu onunla benim…
+Dialogue: 9,0:03:00.88,0:03:04.80,style1,,0,0,0,,Böyle değersiz bir şeyin, Seiroku'nun\Nhayali olmasına imkân yok lan!
+Dialogue: 9,0:03:04.89,0:03:06.43,style1,,0,0,0,,Lütfen durun!
+Dialogue: 9,0:03:06.51,0:03:07.77,style1,,0,0,0,,Inago?
+Dialogue: 9,0:03:07.85,0:03:09.14,style1,,0,0,0,,Ben…
+Dialogue: 9,0:03:09.23,0:03:10.85,style1,,0,0,0,,-Ne yapıyorsun Inako?\N-Ben…
+Dialogue: 9,0:03:10.94,0:03:13.61,style1,,0,0,0,,Ben Kihachi'ye inanıyorum!
+Dialogue: 9,0:03:15.06,0:03:17.61,style1,,0,0,0,,Ne dediğini hiç anlamıyorum.
+Dialogue: 9,0:03:17.69,0:03:20.90,style1,,0,0,0,,Kihachi'nin elektriğe yeteneği var!
+Dialogue: 9,0:03:20.99,0:03:24.07,style1,,0,0,0,,Slayt makineleri yapıyor, hatta\Nuçmayı bile başardı!
+Dialogue: 9,0:03:24.16,0:03:25.20,style1,,0,0,0,,Ne olmuş yani?
+Dialogue: 9,0:03:25.28,0:03:28.04,style1,,0,0,0,,İşte bu yüzden bu katalog gerçek!
+Dialogue: 9,0:03:28.12,0:03:33.42,style1,,0,0,0,,Kihachi, Elektrik Çağı'nı yaratıp\Ngeleceği getirecek!
+Dialogue: 9,0:03:35.25,0:03:36.92,style1,,0,0,0,,Bu kadar yeter.
+Dialogue: 9,0:03:37.42,0:03:39.01,style1,,0,0,0,,Madem gerçek diyorsun...
+Dialogue: 9,0:03:39.09,0:03:41.88,style1,,0,0,0,,...o karalamaları kendin gerçeğe\Ndönüştürmeyi dene bakalım.
+Dialogue: 9,0:03:42.68,0:03:45.51,style1,,0,0,0,,Artık o şeye ihtiyacım kalmadı.
+Dialogue: 9,0:03:45.60,0:03:47.22,style1,,0,0,0,,Fırlatıp atabilirsin çöpe.
+Dialogue: 9,0:03:47.31,0:03:48.43,style1,,0,0,0,,Ne kadar bencilce!
+Dialogue: 9,0:03:48.51,0:03:49.56,style1,,0,0,0,,Ve sevgilim...
+Dialogue: 9,0:03:50.06,0:03:52.77,style1,,0,0,0,,...bugünkü tavırlarını bir daha görmeyeceğim!
+Dialogue: 9,0:03:53.27,0:03:55.81,style1,,0,0,0,,Sana hâlâ ihtiyacım var.
+Dialogue: 9,0:03:56.31,0:04:00.61,style1,,0,0,0,,Ne yaptın sen, seni velet?!
+Dialogue: 9,0:04:00.69,0:04:03.66,style1,,0,0,0,,-O hiçbir şey yapmadı!\N-Kes sesini!
+Dialogue: 9,0:04:03.74,0:04:05.28,style1,,0,0,0,,Zaten başımız dertte.
+Dialogue: 9,0:04:05.37,0:04:09.79,style1,,0,0,0,,Bu evlilik gerçekleşmezse\Nkızlarım sokakta kalacak!
+Dialogue: 9,0:04:09.87,0:04:11.20,style1,,0,0,0,,Jinemon.
+Dialogue: 9,0:04:11.29,0:04:14.79,style1,,0,0,0,,Onu polise teslim edeceğim.
+Dialogue: 9,0:04:14.87,0:04:17.42,style1,,0,0,0,,Lütfen gerisini bana bırak.
+Dialogue: 9,0:04:18.80,0:04:20.42,style1,,0,0,0,,Ne biçim bir gün…
+Dialogue: 9,0:04:20.51,0:04:21.67,style1,,0,0,0,,Kalk ayağa.
+Dialogue: 9,0:04:28.51,0:04:30.27,style1,,0,0,0,,Beni bırakıyor musun?
+Dialogue: 9,0:04:30.77,0:04:34.14,style1,,0,0,0,,Baksanıza, siz benim ağabeyim Seiroku'yu nereden tanıyorsunuz?
+Dialogue: 9,0:04:34.64,0:04:35.94,style1,,0,0,0,,Yani, o adamı?
+Dialogue: 9,0:04:37.06,0:04:40.28,style1,,0,0,0,,Sake üreticisinin kızını kaçırmaya cüret ettin.
+Dialogue: 9,0:04:40.78,0:04:42.57,style1,,0,0,0,,Olay çıkarmadan git.
+Dialogue: 9,0:04:43.57,0:04:44.90,style1,,0,0,0,,Ne oluyor be?
+Dialogue: 9,0:04:51.33,0:04:52.50,style1,,0,0,0,,Sahte değil.
+Dialogue: 9,0:04:53.33,0:04:54.37,style1,,0,0,0,,Değersiz değil.
+Dialogue: 9,0:04:55.21,0:04:57.63,style1,,0,0,0,,Karalamalardan ibaret değil.
+Dialogue: 9,0:04:58.38,0:05:01.21,style1,,0,0,0,,Sakamoto Kihachi-san!\NEvde misiniz?
+Dialogue: 9,0:05:02.80,0:05:04.88,style1,,0,0,0,,-Ne çok var!\N-Ezilmiş bir balık…\N
+Dialogue: 9,0:05:06.47,0:05:07.64,style1,,0,0,0,,Kim bunlar?
+Dialogue: 9,0:05:11.22,0:05:13.10,style1,,0,0,0,,Buyurun, çaylar.
+Dialogue: 9,0:05:14.89,0:05:16.48,style1,,0,0,0,,Ne lezzetli bir çay!\N
+Dialogue: 9,0:05:16.56,0:05:19.27,style1,,0,0,0,,Çaydan anlar mısınız, küçük hanım?
+Dialogue: 9,0:05:19.36,0:05:20.57,style1,,0,0,0,,Rahatınıza bakın.
+Dialogue: 9,0:05:21.27,0:05:22.57,style1,,0,0,0,,Kimsiniz siz?
+Dialogue: 9,0:05:22.65,0:05:24.86,style1,,0,0,0,,Makine tamiri için\Ngelmişe benzemiyorsunuz.
+Dialogue: 9,0:05:25.57,0:05:27.45,style1,,0,0,0,,Ben Suzu Harashima.
+Dialogue: 9,0:05:27.53,0:05:29.12,style1,,0,0,0,,Bu da Kate Okura.
+Dialogue: 9,0:05:29.20,0:05:31.28,style1,,0,0,0,,Inako'nun sınıf arkadaşlarıyız.
+Dialogue: 9,0:05:31.37,0:05:32.49,style1,,0,0,0,,Inago'nun mu?
+Dialogue: 9,0:05:32.58,0:05:35.16,style1,,0,0,0,,Dün ikiniz uçurtmayla uçtunuz!
+Dialogue: 9,0:05:35.25,0:05:36.25,style1,,0,0,0,,Bizi gördünüz mü?
+Dialogue: 9,0:05:36.33,0:05:40.63,style1,,0,0,0,,Inako'yla birlikte uçtuğunuz için\Nsize bir şey söylemeye geldik.
+Dialogue: 9,0:05:40.71,0:05:43.76,style1,,0,0,0,,Buranın yerini Inako'nun\Nablasından öğrendik.
+Dialogue: 9,0:05:45.34,0:05:46.97,style1,,0,0,0,,Inago'ya bir şey mi oldu?
+Dialogue: 9,0:05:47.05,0:05:48.01,style1,,0,0,0,,Inako…
+Dialogue: 9,0:05:48.68,0:05:50.51,style1,,0,0,0,,Hastaneye kaldırıldı.
+Dialogue: 9,0:05:51.43,0:05:52.68,style1,,0,0,0,,Hastaneye mi?
+Dialogue: 9,0:05:54.77,0:05:58.27,style1,,0,0,0,,MIZOE PARKI
+Dialogue: 9,0:06:13.87,0:06:16.08,style1,,0,0,0,,Bu harikaydı, Yosuke-sama.
+Dialogue: 9,0:06:16.58,0:06:17.50,style1,,0,0,0,,Onur duydum.\N
+Dialogue: 9,0:06:17.58,0:06:19.87,style1,,0,0,0,,Yosuke-sama, sırada ben varım!
+Dialogue: 9,0:06:19.96,0:06:22.42,style1,,0,0,0,,Lütfen benimle dans edin!
+Dialogue: 9,0:06:23.80,0:06:25.51,style1,,0,0,0,,Halletmem gereken işler var.
+Dialogue: 9,0:06:26.09,0:06:27.84,style1,,0,0,0,,Sizi bekliyor olacağız!
+Dialogue: 9,0:06:28.80,0:06:31.30,style1,,0,0,0,,Pudra kokusundan içim\Nbayıldı arkadaş.
+Dialogue: 9,0:06:32.30,0:06:36.52,style1,,0,0,0,,Önce Demiryolu Bürosu ile\Nsonra da valiyle randevum var.
+Dialogue: 9,0:06:36.60,0:06:38.81,style1,,0,0,0,,Tanrım, dinlenecek bir saniyem bile yok.
+Dialogue: 9,0:06:39.39,0:06:40.90,style1,,0,0,0,,Nişanınız hakkında…
+Dialogue: 9,0:06:40.98,0:06:43.52,style1,,0,0,0,,Ailenin büyükleri pek memnun.
+Dialogue: 9,0:06:45.44,0:06:48.03,style1,,0,0,0,,Altı üstü statümü korumak için...
+Dialogue: 9,0:06:48.11,0:06:51.28,style1,,0,0,0,,...prestijli bir aile\Nile bağ kurmam gerekti.
+Dialogue: 9,0:06:52.62,0:06:54.95,style1,,0,0,0,,Verilen sözlerin hatırına...
+Dialogue: 9,0:06:55.95,0:06:57.20,style1,,0,0,0,,Zamanı gelene kadar sadece…
+Dialogue: 9,0:06:58.37,0:07:02.71,style1,,0,0,0,,Kataloğu oğlana vermek sizce iyi bir fikir miydi?
+Dialogue: 9,0:07:02.79,0:07:05.21,style1,,0,0,0,,Rastgele karalamalara ilgim yoktur.
+Dialogue: 9,0:07:09.76,0:07:12.72,style1,,0,0,0,,{\i1}Bu kataloğun muazzam bir gücü vardır.
+Dialogue: 9,0:07:12.80,0:07:16.47,style1,,0,0,0,,{\i1}20. Yüzyılı Elektrik Çağı'na dönüştürme gücü.
+Dialogue: 9,0:07:17.52,0:07:19.73,style1,,0,0,0,,Beni kandıramazsınız.
+Dialogue: 9,0:07:20.39,0:07:23.48,style1,,0,0,0,,Gerçek katalog hâlâ var olmalı.
+Dialogue: 0,0:07:23.56,0:07:26.19,style1,,0,0,0,,{\pos(960,108)}KYOTO KAMOGAWA HASTANESİ
+Dialogue: 9,0:07:26.27,0:07:28.69,style1,,0,0,0,,Duymuştum, evet. Anladım.
+Dialogue: 9,0:07:28.78,0:07:31.70,style1,,0,0,0,,Bu kadar küçük bir yaralanma\Nyüzünden yatalak kalmamalı.
+Dialogue: 9,0:07:33.87,0:07:35.41,style1,,0,0,0,,Hadi ama, Inari!
+Dialogue: 9,0:07:35.49,0:07:38.45,style1,,0,0,0,,Oraya neden çıktın ki şimdi?
+Dialogue: 9,0:07:38.95,0:07:40.12,style1,,0,0,0,,Hadi gel aşağı--
+Dialogue: 9,0:07:40.20,0:07:43.00,style1,,0,0,0,,Inago? İyi misin? Ina…
+Dialogue: 9,0:07:44.67,0:07:48.00,style1,,0,0,0,,Kihachi-san!\Nİyi misiniz?
+Dialogue: 9,0:07:49.21,0:07:51.13,style1,,0,0,0,,Sen yatalak değil miydin ya?
+Dialogue: 9,0:07:51.22,0:07:53.72,style1,,0,0,0,,Sadece bileğimi burkmuşum
+Dialogue: 9,0:07:53.80,0:07:56.10,style1,,0,0,0,,ama babam bayağı endişelenmiş.
+Dialogue: 9,0:07:56.18,0:07:58.14,style1,,0,0,0,,Seni evlendiriyorlar kızım.
+Dialogue: 9,0:07:58.22,0:08:01.77,style1,,0,0,0,,Tabii ki düğün öncesinde sakatlanmana endişelenir.
+Dialogue: 9,0:08:01.85,0:08:04.02,style1,,0,0,0,,Siz bunu nereden biliyorsunuz?
+Dialogue: 9,0:08:06.77,0:08:11.03,style1,,0,0,0,,-Komşular konuşurken duyduk.\N-İstemiyor musun ki?
+Dialogue: 9,0:08:12.61,0:08:14.78,style1,,0,0,0,,Babam kararını verdi.
+Dialogue: 9,0:08:16.24,0:08:17.33,style1,,0,0,0,,Özür dilerim.
+Dialogue: 9,0:08:17.83,0:08:19.45,style1,,0,0,0,,Seni incitmiş oldum.
+Dialogue: 9,0:08:19.54,0:08:23.08,style1,,0,0,0,,Hayır, lütfen endişelenme.
+Dialogue: 9,0:08:23.16,0:08:27.04,style1,,0,0,0,,Neyse, Elektrik Kataloğu'nu geri alabilmene sevindim.
+Dialogue: 9,0:08:27.13,0:08:29.00,style1,,0,0,0,,"Elektrik Kataloğu" mu?
+Dialogue: 9,0:08:29.09,0:08:30.25,style1,,0,0,0,,O da ne?
+Dialogue: 9,0:08:30.76,0:08:33.01,style1,,0,0,0,,Kihachi'ye ağabeyinden kalmış.
+Dialogue: 9,0:08:33.09,0:08:37.26,style1,,0,0,0,,Yirminci yüzyılda elektriğe dair\Ndeğerli hayalini içeriyor!
+Dialogue: 9,0:08:38.26,0:08:41.64,style1,,0,0,0,,Elektriğin geleceği neymiş?\NGöstersene bana!
+Dialogue: 9,0:08:44.81,0:08:46.31,style1,,0,0,0,,"Elektrikli Dolunay."
+Dialogue: 9,0:08:46.40,0:08:50.15,style1,,0,0,0,,"Elektrikli ışıklar geceyi tıpkı bir\Ndolunay gibi aydınlatacak."
+Dialogue: 9,0:08:50.23,0:08:54.11,style1,,0,0,0,,"Herkes geceleri dert etmeden\Nsokaklarda yürüyebilecek."
+Dialogue: 9,0:08:55.40,0:08:56.66,style1,,0,0,0,,"Elektrik Depoları."
+Dialogue: 9,0:08:56.74,0:08:59.03,style1,,0,0,0,,"Elektrik taşır ve depolar."
+Dialogue: 9,0:08:59.12,0:09:02.50,style1,,0,0,0,,-"Elektrik satan mağazalardan alınabilir."\N-Bir işe yaradıkları yok zaten.
+Dialogue: 9,0:09:03.50,0:09:04.62,style1,,0,0,0,,Yalnızca karalama.
+Dialogue: 9,0:09:05.46,0:09:07.42,style1,,0,0,0,,O sümsük herif haklıydı.
+Dialogue: 9,0:09:07.50,0:09:08.50,style1,,0,0,0,,Ağabeyim…
+Dialogue: 9,0:09:08.58,0:09:12.76,style1,,0,0,0,,O… asla böyle çocuksu\Nçizimleri ciddiye almazdı.
+Dialogue: 9,0:09:12.84,0:09:15.09,style1,,0,0,0,,Boş iş.
+Dialogue: 9,0:09:15.95,0:09:17.43,style1,,0,0,0,,Rahatsız ettiğim için üzgünüm.
+Dialogue: 9,0:09:17.93,0:09:19.22,style1,,0,0,0,,-Ben eve gidiyorum.\N-Kihachi!
+Dialogue: 9,0:09:19.80,0:09:23.10,style1,,0,0,0,,Elektrik Kataloğu'nu unutma.
+Dialogue: 9,0:09:29.06,0:09:31.94,style1,,0,0,0,,Suzu, lütfen Kihachi'yi durdur.
+Dialogue: 9,0:09:33.48,0:09:34.57,style1,,0,0,0,,Ne var be?
+Dialogue: 9,0:09:34.65,0:09:35.70,style1,,0,0,0,,Kihachi!
+Dialogue: 9,0:09:36.28,0:09:38.70,style1,,0,0,0,,Katalog annem gibi kokuyor!
+Dialogue: 9,0:09:38.78,0:09:40.20,style1,,0,0,0,,Ha?
+Dialogue: 9,0:09:43.79,0:09:47.12,style1,,0,0,0,,Katalogdan annemin parfümünün kokusunu aldım.
+Dialogue: 9,0:09:47.21,0:09:49.38,style1,,0,0,0,,Annen mi?
+Dialogue: 9,0:09:49.46,0:09:51.46,style1,,0,0,0,,Inako'nun annesi…
+Dialogue: 9,0:09:51.96,0:09:53.13,style1,,0,0,0,,Vefat etti.
+Dialogue: 9,0:09:54.05,0:09:58.72,style1,,0,0,0,,Ama hayattayken sake yapardı,\Nbu da o sake gibi kokuyor.
+Dialogue: 9,0:09:59.97,0:10:01.01,style1,,0,0,0,,Lütfen bir kokla şunu.
+Dialogue: 9,0:10:03.22,0:10:04.64,style1,,0,0,0,,Anlamadım!
+Dialogue: 9,0:10:04.72,0:10:06.48,style1,,0,0,0,,Koku hafif ama anlaşılabilir.
+Dialogue: 9,0:10:07.06,0:10:10.31,style1,,0,0,0,,Kağıda geçmiş eski sakenin kokusu.
+Dialogue: 9,0:10:10.40,0:10:11.56,style1,,0,0,0,,Bize kül lazım.
+Dialogue: 9,0:10:11.65,0:10:13.11,style1,,0,0,0,,Bunlar kül mü?
+Dialogue: 9,0:10:13.73,0:10:15.57,style1,,0,0,0,,Bunu neden yanında taşıyorsun?
+Dialogue: 9,0:10:17.03,0:10:19.20,style1,,0,0,0,,Kataloğum!
+Dialogue: 9,0:10:19.28,0:10:21.24,style1,,0,0,0,,-Ay!\N-Sadece bekle.
+Dialogue: 9,0:10:21.32,0:10:22.99,style1,,0,0,0,,Suzu'ya güvenelim.
+Dialogue: 9,0:10:23.08,0:10:24.70,style1,,0,0,0,,N'oluyor ya?
+Dialogue: 9,0:10:28.66,0:10:31.58,style1,,0,0,0,,Kılıfının içi bile kül dolmuş.
+Dialogue: 9,0:10:32.17,0:10:33.59,style1,,0,0,0,,Bir şey görüyorum.
+Dialogue: 9,0:10:38.09,0:10:39.30,style1,,0,0,0,,Hadi canım.\N
+Dialogue: 9,0:10:47.48,0:10:49.31,style1,,0,0,0,,Ağabeyimin el yazısı bu.
+Dialogue: 9,0:10:49.94,0:10:51.69,style1,,0,0,0,,Kül bunu nasıl gösterdi?
+Dialogue: 9,0:10:51.77,0:10:53.06,style1,,0,0,0,,Bu bir ninja taktiğidir.
+Dialogue: 9,0:10:53.15,0:10:54.11,style1,,0,0,0,,Ninja mı?
+Dialogue: 9,0:10:54.19,0:10:55.78,style1,,0,0,0,,Şuna bak. İşte!
+Dialogue: 9,0:10:56.65,0:10:57.78,style1,,0,0,0,,"Kihachi'ye."
+Dialogue: 9,0:10:57.86,0:10:59.20,style1,,0,0,0,,Hiç şüphe yok!
+Dialogue: 9,0:10:59.28,0:11:03.16,style1,,0,0,0,,Ağabeyin bunları senin için yazmış olmalı!
+Dialogue: 0,0:11:03.91,0:11:07.33,style1,,0,0,0,,{\pos(960,108)}Elektrikle ilgisi olsa gerek, değil mi?
+Dialogue: 0,0:11:07.41,0:11:11.54,style1,,0,0,0,,{\pos(960,174.667)}Gerçek olan bunlar,\Nağabeyinin fikirleri ile dolu.
+Dialogue: 0,0:11:11.62,0:11:14.25,style1,,0,0,0,,{\pos(960,108)}Yani o kadar da boş iş değilmiş.
+Dialogue: 0,0:11:14.34,0:11:15.59,style1,,0,0,0,,{\pos(960,108)}O…
+Dialogue: 9,0:11:16.30,0:11:18.05,style1,,0,0,0,,-Beni kandıramazsınız!\N-Ha?
+Dialogue: 9,0:11:18.13,0:11:22.80,style1,,0,0,0,,Sözünü dahi tutamayan birine\Nasla güvenemem!
+Dialogue: 9,0:11:22.89,0:11:25.39,style1,,0,0,0,,Ne demeye çalışıyorsun?
+Dialogue: 9,0:11:25.47,0:11:27.93,style1,,0,0,0,,Ağabeyinden nasıl hâlâ şüphe edersin?
+Dialogue: 9,0:11:28.02,0:11:32.56,style1,,0,0,0,,Benimle alay etmek için\Nsaçma sapan şeyler yazmıştır!
+Dialogue: 9,0:11:32.65,0:11:34.06,style1,,0,0,0,,Baksana şunlara!
+Dialogue: 9,0:11:34.15,0:11:36.57,style1,,0,0,0,,"Ampul teli ay prensesidir" mi?
+Dialogue: 9,0:11:36.65,0:11:37.57,style1,,0,0,0,,Hiçbir şey anlamadım!
+Dialogue: 9,0:11:38.15,0:11:41.53,style1,,0,0,0,,Sana insanları sorgulamanın \Nyanlış olduğunu söylemedim mi?
+Dialogue: 9,0:11:41.61,0:11:43.95,style1,,0,0,0,,Her gördüğüne inanmak da yanlış!
+Dialogue: 9,0:11:44.03,0:11:46.66,style1,,0,0,0,,Ulu orta yerde bağırmasanıza.
+Dialogue: 9,0:11:47.16,0:11:49.75,style1,,0,0,0,,Neyse, ortada kanıt yok.
+Dialogue: 9,0:11:49.83,0:11:55.58,style1,,0,0,0,,Bu karalamalara gerçekten\Ninanıyor muydu bilmiyorum bile.
+Dialogue: 9,0:11:55.67,0:11:58.34,style1,,0,0,0,,O zaman kanıtla!
+Dialogue: 9,0:11:58.92,0:12:01.34,style1,,0,0,0,,Kanıtlayabilmeme imkân yok ki!
+Dialogue: 9,0:12:01.42,0:12:02.34,style1,,0,0,0,,Kanıtlayabilirsin.
+Dialogue: 9,0:12:03.13,0:12:04.89,style1,,0,0,0,,Onları yapmalısın!
+Dialogue: 9,0:12:04.97,0:12:06.60,style1,,0,0,0,,Orada yazılı olan şeyleri!
+Dialogue: 9,0:12:06.68,0:12:10.98,style1,,0,0,0,,Eğer bunu yapabilirsen ağabeyinin\Nbunları ciddiye aldığını kanıtlamış olursun!
+Dialogue: 9,0:12:11.06,0:12:12.48,style1,,0,0,0,,Yapmak mı?
+Dialogue: 9,0:12:12.56,0:12:13.98,style1,,0,0,0,,Doğru duydun!
+Dialogue: 0,0:12:14.06,0:12:17.19,style1,,0,0,0,,{\pos(960,108)}20. YÜZYIL ELEKTRİK KATALOĞU
+Dialogue: 9,0:12:18.82,0:12:21.15,style1,,0,0,0,,Hoş geldin. Inako nasıl?
+Dialogue: 9,0:12:24.82,0:12:28.20,style1,,0,0,0,,-Bu sefer ne yapıyorsun?\N-Elektrikli Dolunay.
+Dialogue: 9,0:12:28.28,0:12:29.54,style1,,0,0,0,,"Elektrikli Dolunay" mı?
+Dialogue: 9,0:12:30.75,0:12:33.79,style1,,0,0,0,,Bunlar ağabeyinin\Nyaptığı ampuller mi?
+Dialogue: 9,0:12:33.87,0:12:35.00,style1,,0,0,0,,Evet.
+Dialogue: 9,0:12:35.08,0:12:36.33,style1,,0,0,0,,Bunları kullanıp...
+Dialogue: 9,0:12:36.42,0:12:40.05,style1,,0,0,0,,...gaz yağından ve mumlardan daha\Nuzun süre yanan bir ışık yapacağım.
+Dialogue: 9,0:12:40.55,0:12:42.05,style1,,0,0,0,,"Elektrikli Dolunay."
+Dialogue: 9,0:12:42.13,0:12:46.05,style1,,0,0,0,,Ve bununla birlikte, kataloğun gerçek \Nolup olmadığından emin olacağım.
+Dialogue: 9,0:12:46.14,0:12:51.27,style1,,0,0,0,,HORAI BUDİST SUNAĞI DÜKKÂNI
+Dialogue: 9,0:12:51.35,0:12:52.48,style1,,0,0,0,,Merhaba.
+Dialogue: 9,0:12:52.56,0:12:53.81,style1,,0,0,0,,Ah, hoş geldiniz.
+Dialogue: 9,0:12:53.89,0:12:55.48,style1,,0,0,0,,Kihachi arka tarafta.
+Dialogue: 9,0:12:55.56,0:12:56.56,style1,,0,0,0,,Teşekkür ederiz.
+Dialogue: 9,0:12:57.73,0:12:59.06,style1,,0,0,0,,Selam.
+Dialogue: 9,0:13:08.28,0:13:10.87,style1,,0,0,0,,Ama hâlâ ampul teli ile bir sorunumuz var.
+Dialogue: 9,0:13:10.95,0:13:12.33,style1,,0,0,0,,Ham pul teli mi?
+Dialogue: 9,0:13:12.75,0:13:13.87,style1,,0,0,0,,Kıyafet mi dikiyorsunuz?
+Dialogue: 9,0:13:13.87,0:13:15.62,style1,,0,0,0,,Sen miydin, Inago?
+Dialogue: 9,0:13:15.71,0:13:17.33,style1,,0,0,0,,Hayalet sandım seni.
+Dialogue: 9,0:13:17.42,0:13:19.25,style1,,0,0,0,,Bacağın iyileşti mi bari?
+Dialogue: 9,0:13:19.34,0:13:22.84,style1,,0,0,0,,Sırf bileğim burkuldu diye\Nbir ömür hastanede duramam.
+Dialogue: 9,0:13:23.67,0:13:26.26,style1,,0,0,0,,Ee, "ham pul teli" ne demek?
+Dialogue: 9,0:13:26.34,0:13:27.68,style1,,0,0,0,,Ampul teli o!
+Dialogue: 9,0:13:27.76,0:13:29.64,style1,,0,0,0,,Işık veren ampulün içindeki şey!
+Dialogue: 9,0:13:29.72,0:13:31.72,style1,,0,0,0,,En önemli parça yani.
+Dialogue: 9,0:13:31.81,0:13:36.73,style1,,0,0,0,,Ama çok çabuk yanıyor,\No yüzden fazla dayanmıyor.
+Dialogue: 9,0:13:36.81,0:13:39.15,style1,,0,0,0,,Şube Müdürü de aynısını demişti.
+Dialogue: 9,0:13:39.65,0:13:41.11,style1,,0,0,0,,Ağabeyim ise kataloğa yazmıştı.
+Dialogue: 9,0:13:41.98,0:13:44.74,style1,,0,0,0,,"Ampul teli ay prensesidir."
+Dialogue: 9,0:13:45.24,0:13:47.86,style1,,0,0,0,,Bir ipucu olmalı ama gram anlamadım.
+Dialogue: 9,0:13:47.95,0:13:50.03,style1,,0,0,0,,Öyle bir peri masalı yok muydu?
+Dialogue: 9,0:13:50.12,0:13:51.83,style1,,0,0,0,,Prenses Kaguya.
+Dialogue: 9,0:13:51.91,0:13:55.04,style1,,0,0,0,,Bambudan doğan prenses aya geri döner.
+Dialogue: 9,0:13:55.12,0:13:57.29,style1,,0,0,0,,Prenses Kaguya… Bambu?
+Dialogue: 9,0:13:57.87,0:14:00.63,style1,,0,0,0,,Ampul teli için bambu mu kullanacağız?
+Dialogue: 9,0:14:00.71,0:14:02.96,style1,,0,0,0,,-Çözebildin mi?\N-Evet!
+Dialogue: 9,0:14:04.46,0:14:05.30,style1,,0,0,0,,Kihachi?
+Dialogue: 9,0:14:05.92,0:14:07.30,style1,,0,0,0,,Her zamanki gibi.
+Dialogue: 9,0:14:07.88,0:14:11.10,style1,,0,0,0,,Bana asla her şeyi birden söylemez.
+Dialogue: 9,0:14:11.18,0:14:13.35,style1,,0,0,0,,Şu şeyleri sayfalara saklamakla bile uğraşmış.
+Dialogue: 9,0:14:13.85,0:14:17.02,style1,,0,0,0,,Sanırım kalan kısımları kendim çözeyim istemiş.
+Dialogue: 9,0:14:18.02,0:14:21.06,style1,,0,0,0,,Lütfen benim de yardımcı\Nolmama izin ver, Kihachi.
+Dialogue: 9,0:14:21.90,0:14:24.02,style1,,0,0,0,,Neden bana yardım ediyorsun ki?
+Dialogue: 9,0:14:24.11,0:14:28.32,style1,,0,0,0,,Ağabeyine inanabilmene yardım etmek istiyorum.
+Dialogue: 9,0:14:28.40,0:14:32.58,style1,,0,0,0,,Sen bile ağabeyine inanabiliyor olmalısın!
+Dialogue: 9,0:14:33.99,0:14:35.08,style1,,0,0,0,,Ben kandırılmam.
+Dialogue: 9,0:14:35.66,0:14:38.08,style1,,0,0,0,,Eğlenceli gibi, ben de yardım edeceğim.
+Dialogue: 9,0:14:38.16,0:14:39.33,style1,,0,0,0,,O zaman ben de.
+Dialogue: 9,0:14:39.92,0:14:42.84,style1,,0,0,0,,Kihachi, fırın işi tamam.
+Dialogue: 9,0:14:42.92,0:14:44.09,style1,,0,0,0,,Sırada ne var?
+Dialogue: 9,0:14:44.67,0:14:45.50,style1,,0,0,0,,Evet.
+Dialogue: 9,0:14:46.30,0:14:47.42,style1,,0,0,0,,Evet!
+Dialogue: 9,0:14:52.01,0:14:52.93,style1,,0,0,0,,O zaman…
+Dialogue: 9,0:14:56.47,0:14:58.98,style1,,0,0,0,,Ha? Bu ne be?
+Dialogue: 9,0:15:02.90,0:15:04.02,style1,,0,0,0,,Yardım edeyim.
+Dialogue: 9,0:15:04.11,0:15:05.32,style1,,0,0,0,,Ha?
+Dialogue: 9,0:15:07.11,0:15:08.86,style1,,0,0,0,,Sen neden buradasın?
+Dialogue: 9,0:15:08.94,0:15:10.65,style1,,0,0,0,,Inako söyledi.
+Dialogue: 9,0:15:11.16,0:15:14.70,style1,,0,0,0,,Yosuke'yle ikimiz de Shiga'daki okula gittik.
+Dialogue: 9,0:15:15.28,0:15:18.16,style1,,0,0,0,,Seiroku sınıf arkadaşımızdı.
+Dialogue: 9,0:15:19.54,0:15:22.50,style1,,0,0,0,,Seiroku'yu ben de tanıyorum.
+Dialogue: 9,0:15:23.00,0:15:26.09,style1,,0,0,0,,Demek o yüzden katalog sendeydi.
+Dialogue: 9,0:15:26.59,0:15:27.42,style1,,0,0,0,,Evet.
+Dialogue: 9,0:15:28.26,0:15:29.63,style1,,0,0,0,,Duymuştum.
+Dialogue: 9,0:15:30.13,0:15:33.18,style1,,0,0,0,,Seiroku kataloğa bir şeyler yazmış.
+Dialogue: 9,0:15:34.93,0:15:36.01,style1,,0,0,0,,Bak.
+Dialogue: 9,0:15:36.10,0:15:37.93,style1,,0,0,0,,Bu Seiroku'nun…
+Dialogue: 9,0:15:38.60,0:15:41.69,style1,,0,0,0,,Gerçekten onun el yazısı mı bilmiyorum ama.
+Dialogue: 9,0:15:41.77,0:15:43.27,style1,,0,0,0,,Sen...
+Dialogue: 9,0:15:44.27,0:15:46.02,style1,,0,0,0,,...çok şüphecisin, değil mi?
+Dialogue: 9,0:15:46.11,0:15:47.69,style1,,0,0,0,,Sen inanıyor musun yani?
+Dialogue: 9,0:15:49.82,0:15:51.78,style1,,0,0,0,,Öyle olduğuna inanmak istiyorum.
+Dialogue: 9,0:16:41.95,0:16:43.41,style1,,0,0,0,,İnanılmaz!
+Dialogue: 9,0:16:43.50,0:16:45.12,style1,,0,0,0,,Sabaha kadar yanmaya devam etti!
+Dialogue: 9,0:16:46.29,0:16:47.46,style1,,0,0,0,,Kandırılmayacağım.
+Dialogue: 9,0:16:47.54,0:16:50.13,style1,,0,0,0,,Ne? Hâlâ abinden şüphe mi duyuyorsun?
+Dialogue: 0,0:16:50.21,0:16:53.30,style1,,0,0,0,,{\pos(960,108)}Aklındaki elektrik ışığı cidden bu muydu?
+Dialogue: 9,0:16:53.88,0:16:56.64,style1,,0,0,0,,Daha parlak ve uzun dayanan bir ışık yapamaz mıyız?
+Dialogue: 9,0:16:57.26,0:17:00.14,style1,,0,0,0,,Teli daha yüksek bir ısıda karbonlaştırıp
+Dialogue: 9,0:17:00.22,0:17:02.35,style1,,0,0,0,,cam kalitesini mi arttırmamız gerekiyor?
+Dialogue: 9,0:17:02.85,0:17:05.27,style1,,0,0,0,,Cam konusunda bir fikrim var!
+Dialogue: 9,0:17:06.40,0:17:10.07,style1,,0,0,0,,Bu cam mağazası bizim sakecimizle anlaşmalı.
+Dialogue: 9,0:17:10.15,0:17:13.07,style1,,0,0,0,,Şu küçük fırını kullanabileceğimizi söylediler.
+Dialogue: 9,0:17:13.65,0:17:15.45,style1,,0,0,0,,Çok teşekkür ederiz.
+Dialogue: 9,0:17:15.53,0:17:18.99,style1,,0,0,0,,Naeko'nun bize büyük yardımı dokundu, istediğiniz kadar kullanın.
+Dialogue: 9,0:17:19.62,0:17:20.87,style1,,0,0,0,,Naeko?
+Dialogue: 9,0:17:20.95,0:17:22.87,style1,,0,0,0,,Annem.
+Dialogue: 9,0:18:38.11,0:18:42.49,style1,,0,0,0,,Yosuke, Momokawa'ların kızından bir davetiye geldi.
+Dialogue: 9,0:18:43.24,0:18:44.66,style1,,0,0,0,,Nişanlımdan mı?
+Dialogue: 9,0:18:45.12,0:18:47.58,style1,,0,0,0,,YOSUKE MIZOE'YE
+Dialogue: 9,0:18:49.12,0:18:51.63,style1,,0,0,0,,"Elektrikli Dolunay başarılı oldu."
+Dialogue: 9,0:18:52.13,0:18:55.09,style1,,0,0,0,,"Katalog sahte değil" mi diyor?
+Dialogue: 9,0:18:55.59,0:18:58.01,style1,,0,0,0,,Gerçek olmasının imkânı yok.
+Dialogue: 9,0:19:03.60,0:19:04.81,style1,,0,0,0,,İmkânı yok!
+Dialogue: 9,0:19:04.89,0:19:07.14,style1,,0,0,0,,O karalamalar gerçek olamaz.
+Dialogue: 9,0:19:07.22,0:19:10.39,style1,,0,0,0,,O katalogda dehasına dair hiçbir iz yoktu!
+Dialogue: 9,0:19:10.89,0:19:12.73,style1,,0,0,0,,Kendi gözlerimle gördüm.
+Dialogue: 9,0:19:12.81,0:19:15.15,style1,,0,0,0,,Ondan kalan her şeyi arayıp taradım!
+Dialogue: 9,0:19:16.02,0:19:18.49,style1,,0,0,0,,Evet, bu bir şaka olmalı.
+Dialogue: 9,0:19:19.99,0:19:21.36,style1,,0,0,0,,Ne düşünüyordum ki?
+Dialogue: 9,0:19:21.45,0:19:23.16,style1,,0,0,0,,-Eve gidelim, Izo!\N-Evet, efendim.
+Dialogue: 9,0:19:26.70,0:19:28.87,style1,,0,0,0,,Neden içimde kötü bir his var?
+Dialogue: 9,0:19:28.95,0:19:31.62,style1,,0,0,0,,Neler planlıyorsun, küçük velet?
+Dialogue: 9,0:19:40.76,0:19:42.63,style1,,0,0,0,,Elektrik ışığı mı?
+Dialogue: 9,0:19:42.72,0:19:45.93,style1,,0,0,0,,-Yüzlerce saattir yanıyor.\N-Yüzlerce?
+Dialogue: 9,0:19:46.01,0:19:47.26,style1,,0,0,0,,Kesin palavrayı!
+Dialogue: 9,0:19:47.35,0:19:50.23,style1,,0,0,0,,O kadar uzun dayanabilecek bir ampul teli yok!
+Dialogue: 9,0:19:50.85,0:19:52.69,style1,,0,0,0,,Teli bambudan yaptık!
+Dialogue: 9,0:19:53.19,0:19:54.44,style1,,0,0,0,,Ağabeyim Seiroku...
+Dialogue: 9,0:19:55.15,0:19:58.44,style1,,0,0,0,,20. Yüzyıl Elektrik Kataloğu'nda\Nbize bir ipucu bırakmış!
+Dialogue: 9,0:19:58.53,0:20:00.69,style1,,0,0,0,,Bambu mu? Seiroku mu?
+Dialogue: 9,0:20:01.86,0:20:03.49,style1,,0,0,0,,Hayır, dalga geçiyor olmalılar.
+Dialogue: 9,0:20:03.99,0:20:07.20,style1,,0,0,0,,Bu ışığı onunla birlikte yapacaktık.\N
+Dialogue: 9,0:20:12.87,0:20:17.71,style1,,0,0,0,,Bu ışık zerresi neye yarar ki?\NOnun gördüğü gelecek--
+Dialogue: 9,0:20:17.79,0:20:19.84,style1,,0,0,0,,Elektrikli Dolunay henüz doğmadı!
+Dialogue: 9,0:20:23.93,0:20:25.76,style1,,0,0,0,,Ne planlıyorsunuz?
+Dialogue: 9,0:20:25.84,0:20:30.97,style1,,0,0,0,,Haa, haklıydım demek! Şimdi de karanlığın arasından sıyrılıp kaçmayı planlıyorsun!
+Dialogue: 9,0:20:31.06,0:20:32.14,style1,,0,0,0,,Biliyordum.
+Dialogue: 9,0:20:32.23,0:20:34.60,style1,,0,0,0,,Onun hayalinin birazını bile gerçekleştirebileceğini mi sandın?
+Dialogue: 9,0:20:34.69,0:20:38.11,style1,,0,0,0,,Yalan söyledin, değil mi? Hepsi blöftü!
+Dialogue: 9,0:20:39.23,0:20:40.61,style1,,0,0,0,,Acınası!
+Dialogue: 9,0:20:51.08,0:20:52.25,style1,,0,0,0,,Bu da ne?
+Dialogue: 9,0:21:03.01,0:21:05.43,style1,,0,0,0,,Gece çok parlak.
+Dialogue: 9,0:21:11.14,0:21:13.52,style1,,0,0,0,,Bu harika bir şey, Kihachi.
+Dialogue: 9,0:21:14.52,0:21:16.69,style1,,0,0,0,,Gerçek bir dolunay.
+Dialogue: 9,0:21:19.82,0:21:21.15,style1,,0,0,0,,Ben de…
+Dialogue: 9,0:21:46.93,0:21:48.93,style1,,0,0,0,,-Bakın!\N-Çiçekler ne güzel açtı!
+Dialogue: 9,0:21:49.01,0:21:50.89,style1,,0,0,0,,Hadi bakalım!
+Dialogue: 9,0:21:50.97,0:21:53.39,style1,,0,0,0,,Şu uzun geceler çok hoş değil mi?
+Dialogue: 9,0:22:05.86,0:22:07.15,style1,,0,0,0,,Beraber...
+Dialogue: 9,0:22:07.74,0:22:10.91,style1,,0,0,0,,...şu katalogda yazanları gerçeğe çevirelim,
+Dialogue: 9,0:22:11.62,0:22:12.91,style1,,0,0,0,,Kihachi.
+Dialogue: 9,0:22:14.20,0:22:15.16,style1,,0,0,0,,Ağabey...
+Dialogue: 9,0:22:17.29,0:22:20.17,style1,,0,0,0,,Bunu Seiroku ile birlikte yapacaktık.
+Dialogue: 9,0:22:23.80,0:22:26.09,style1,,0,0,0,,Yosuke-sama, lütfen kendinize gelin!
+Dialogue: 9,0:22:26.17,0:22:27.01,style1,,0,0,0,,Hey!
+Dialogue: 9,0:22:27.09,0:22:29.01,style1,,0,0,0,,Sen abimin…
+Dialogue: 9,0:22:29.09,0:22:30.80,style1,,0,0,0,,Senden...
+Dialogue: 9,0:22:32.35,0:22:34.26,style1,,0,0,0,,...nefret ediyorum!
